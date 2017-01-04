@@ -1,0 +1,262 @@
+Recommender systems: from algorithms to user experience.
+Recommender systems: from algorithms to user experience.
+Tweet sentiment analysis with classifier ensembles
+Tweet sentiment analysis with classifier ensembles.
+Collaborative location and activity recommendations with GPS history data
+Collaborative location and activity recommendations with GPS history data.
+Continuous Parallel Coordinates
+Continuous Parallel Coordinates.
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions
+Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions.
+Time weight collaborative filtering.
+Time weight collaborative filtering.
+Scalable coordinate descent approaches to parallel matrix factorization for recommender systems.
+Scalable Coordinate Descent Approaches to Parallel Matrix Factorization for Recommender Systems.
+Restricted boltzmann machines for collaborative filtering.
+Restricted Boltzmann machines for collaborative filtering.
+Recommendation systems: A probabilistic analysis.
+Recommendation Systems: A Probabilistic Analysis.
+Performance of recommender algorithms on top-n recommendation tasks.
+Performance of recommender algorithms on top-n recommendation tasks.
+Matrix factorization techniques for recommender systems.
+Matrix Factorization Techniques for Recommender Systems.
+Item-based collaborative filtering recommendation algorithms.
+Item-based collaborative filtering recommendation algorithms.
+An EM and a Stochastic Version of the EM Algorithm for Nonparametric Hidden Semi-Markov Models.
+Noise-Robust Voice Activity Detector Based on Hidden Semi-Markov Models.
+Enhancing recommender systems under volatile userinterest drifts.
+Enhancing recommender systems under volatile userinterest drifts.
+Dynamic matrix factorization: A state space approach.
+Dynamic matrix factorization: A state space approach.
+Content-boosted collaborative filtering for improved recommendations
+Content-Boosted Collaborative Filtering for Improved Recommendations.
+An algorithmic framework for performing collaborative filtering.
+An Algorithmic Framework for Performing Collaborative Filtering.
+A time-based approach to effective recommender systems using implicit feedback
+A time-based approach to effective recommender systems using implicit feedback.
+A survey of collaborative filtering techniques.
+A Survey of Collaborative Filtering Techniques.
+A framework for collaborative, content-based and demographic filtering.
+A Framework for Collaborative, Content-Based and Demographic Filtering.
+Reorganizing the protein space at the Universal Protein Resource (UniProt)
+Reorganizing the protein space at the Universal Protein Resource (UniProt).
+NCBI reference sequences (RefSeq): a curated non-redundant sequence database of genomes, transcripts and proteins
+NCBI reference sequences (RefSeq): a curated non-redundant sequence database of genomes, transcripts and proteins.
+Pathline: A tool for comparative functional genomics
+Pathline: A Tool For Comparative Functional Genomics.
+Cosmic: mining complete cancer genomes in the catalogue of somatic mutations in cancer
+COSMIC: mining complete cancer genomes in the Catalogue of Somatic Mutations in Cancer.
+Coordinated graph and scatter-plot views for the visual exploration of microarray time-series data
+Coordinated Graph and Scatter-Plot Views for the Visual Exploration of Microarray Time-Series Data.
+A fast and simple algorithm for training neural probabilistic language models
+A fast and simple algorithm for training neural probabilistic language models.
+Efficient estimation of word representations in vector space
+Efficient Estimation of Word Representations in Vector Space
+WhereNext: A location predictor on trajectory pattern mining.
+WhereNext: a location predictor on trajectory pattern mining.
+SurroundSense: Mobile phone localization via ambience fingerprinting.
+SurroundSense: mobile phone localization via ambience fingerprinting.
+Recommending friends and locations based on individual location history.
+Recommending friends and locations based on individual location history.
+Rank and relevance in novelty and diversity metrics for recommender systems.
+Rank and relevance in novelty and diversity metrics for recommender systems.
+Point-of-interest recommendation in location based social networks with topic and location awareness.
+Point-of-Interest Recommendation in Location Based Social Networks with Topic and Location Awareness.
+Modelling heterogeneous location habits in human populations for location prediction under data sparsity.
+Modelling heterogeneous location habits in human populations for location prediction under data sparsity.
+Mining user mobility features for next place prediction in location-based services.
+Mining User Mobility Features for Next Place Prediction in Location-Based Services.
+Location3: How users share and respond to location-based data on social.
+Location3: How Users Share and Respond to Location-Based Data on Social.
+Localized matrix factorization for recommendation based on matrix block diagonal forms.
+Localized matrix factorization for recommendation based on matrix block diagonal forms.
+Learning to rank for spatiotemporal search.
+Learning to rank for spatiotemporal search.
+Learning to Rank for Information Retrieval.
+An Overview of Learning to Rank for Information Retrieval.
+Learning significant locations and predicting user movement with GPS.
+Learning Significant Locations and Predicting User Movement with GPS.
+Learning location naming from user check-in histories.
+Learning location naming from user check-in histories.
+Identifying logical location via GPS-enabled mobile phone and wearable camera.
+Identifying Logical Location via GPS-Enabled Mobile phone and Wearable Camera.
+How random are online social interactions?
+How Random are Online Social Interactions?
+Fused matrix factorization with geographical and social influence in location-based social networks.
+Fused Matrix Factorization with Geographical and Social Influence in Location-Based Social Networks.
+Exploring social-historical ties on location-based social networks.
+Exploring Social-Historical Ties on Location-Based Social Networks.
+Exploring millions of footprints in location sharing services.
+Exploring Millions of Footprints in Location Sharing Services.
+Evaluating location predictors with extensive Wi-Fi mobility data.
+Evaluating location predictors with extensive Wi-Fi mobility data.
+Efficient worst-case data structures for range searching.
+Efficient Worst-Case Data Structures for Range Searching.
+Collaborative filtering meets next check-in location prediction.
+Collaborative filtering meets next check-in location prediction.
+Collaborative filtering meets mobile recommendation: A user-centered approach.
+Collaborative Filtering Meets Mobile Recommendation: A User-Centered Approach.
+Breaking the habit: Measuring and predicting departures from routine in individual human mobility.
+Breaking the habit: Measuring and predicting departures from routine in individual human mobility.
+Beyond accuracy: Evaluating recommender systems by coverage and serendipity.
+Beyond accuracy: evaluating recommender systems by coverage and serendipity.
+An empirical study of smoothing techniques for language modeling.
+An Empirical Study of Smoothing Techniques for Language Modeling.
+An MDP-based recommender system.
+An MDP-Based Recommender System.
+Aampl: Accelerometer augmented mobile phone localization.
+AAMPL: accelerometer augmented mobile phone localization.
+A sentiment-enhanced personalized location recommendation system.
+A sentiment-enhanced personalized location recommendation system.
+A random walk around the city: New venue recommendation in location-based social networks.
+A Random Walk around the City: New Venue Recommendation in Location-Based Social Networks.
+A hierarchical Bayesian language model based on Pitman-Yor processes.
+A Hierarchical Bayesian Language Model Based On Pitman-Yor Processes.
+A comprehensive survey of neighborhood-based recommendation methods.
+A Comprehensive Survey of Neighborhood-based Recommendation Methods.
+Nordic Conference on Human-Computer Interaction, NordiCHI '12, Copenhagen, Denmark, October 14-17, 2012
+Nordic Conference on Human-Computer Interaction, NordiCHI '12, Copenhagen, Denmark, October 14-17, 2012
+Wsabie: scaling up to large vocabulary image annotation.
+WSABIE: Scaling Up to Large Vocabulary Image Annotation.
+Supercharging recommender systems using taxonomies for learning user purchase behavior.
+Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior.
+Relation extraction with matrix factorization and universal schemas.
+Relation Extraction with Matrix Factorization and Universal Schemas.
+Probabilistic matrix factorization.
+SoRec: social recommendation using probabilistic matrix factorization.
+Personalized ranking for non-uniformly sampled items.
+Personalized Ranking for Non-Uniformly Sampled Items.
+Pairwise interaction tensor factorization for personalized tag recommendation.
+Pairwise interaction tensor factorization for personalized tag recommendation.
+Multiverse recommendation: n-dimensional tensor factorization for context-aware collaborative filtering.
+Multiverse recommendation: n-dimensional tensor factorization for context-aware collaborative filtering.
+Matchbox: large scale online bayesian recommendations.
+Matchbox: large scale online bayesian recommendations.
+Learning to rank social update streams.
+Learning to rank social update streams.
+Latent factor models with additive and hierarchically-smoothed user preferences.
+Latent factor models with additive and hierarchically-smoothed user preferences.
+Focused matrix factorization for audience selection in display advertising.
+Focused matrix factorization for audience selection in display advertising.
+Factorization machines with libFM.
+Factorization Machines with libFM.
+Empirical analysis of predictive algorithms for collaborative filtering.
+Empirical Analysis of Predictive Algorithms for Collaborative Filtering.
+Collaborative filtering with temporal dynamics.
+Collaborative filtering with temporal dynamics.
+Co-factorization machines: modeling user interests and predicting individual decisions in twitter.
+Co-factorization machines: modeling user interests and predicting individual decisions in Twitter.
+Climf: learning to maximize reciprocal rank with collaborative less-is-more filtering.
+CLiMF: learning to maximize reciprocal rank with collaborative less-is-more filtering.
+A faster algorithm for fully dynamic betweenness centrality
+A Faster Algorithm for Fully Dynamic Betweenness Centrality.
+Parallelizing Self-Organizing Maps.
+Parallelizing Self-Organizing Maps.
+A guide to visual multi-level interface design from synthesis of empirical study evidence
+A Guide to Visual Multi-Level Interface Design From Synthesis of Empirical Study Evidence
+BLaC-wavelets: a multiresolution analysis with non-nested spaces
+BLaC-Wavelets: A Multiresolution Analysis With Non-Nested Spaces.
+On structural aspects of unconnectedness in knowledge and social networks.
+Inferring interestingness in online social networks.
+On structural aspects of unconnectedness in knowledge and social networks.
+Inferring interestingness in online social networks.
+Decision Theoretic Generalizations of the PAC Model for Neural Net and Other Learning Applications
+Decision Theoretic Generalizations of the PAC Model for Neural Net and Other Learning Applications
+Syntactic Clustering of the Web
+Syntactic Clustering of the Web.
+Turbulence Modelling for CFD-Methods for Containment Flows - Annual Report 06/2010-06/2011.
+Turbulence Modelling for CFD-Methods for Containment Flows - Annual Report 06/2010-06/2011.
+Optimising area under the roc curve using gradient descent.
+Optimising area under the ROC curve using gradient descent.
+Learning to rank using gradient descent.
+Learning to rank using gradient descent.
+Item-based top-n recommendation algorithms.
+Item-based top-N recommendation algorithms.
+Improving maximum margin matrix factorization.
+Improving Maximum Margin Matrix Factorization.
+Fast maximum margin matrix factorization for collaborative prediction.
+Fast maximum margin matrix factorization for collaborative prediction.
+Factorization meets the neighborhood: a multifaceted collaborative filtering model.
+Factorization meets the neighborhood: a multifaceted collaborative filtering model.
+Compound classification models for recommender systems.
+Compound Classification Models for Recommender Systems.
+Proceedings of the 3rd USENIX Workshop on Electronic Commerce, Boston, Massachusetts, USA, August 31 - September 3, 1998
+Proceedings of the 3rd USENIX Workshop on Electronic Commerce, Boston, Massachusetts, USA, August 31 - September 3, 1998
+Energy Models for Graph Clustering.
+Energy Models for Graph Clustering.
+GLOs: graph-level operations for exploratory network visualization.
+Hierarchical Focus+Context Heterogeneous Network Visualization.
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+A Fast Algorithm for Balanced Graph Clustering.
+A Fast Algorithm for Balanced Graph Clustering.
+Algorithms for Drawing Graphs: an Annotated Bibliography.
+Algorithms for Drawing Graphs: an Annotated Bibliography.
+A new methodology for constructing a publication-level classification system of science.
+A new methodology for constructing a publication-level classification system of science.
+Modern information retrieval
+Modern Information Retrieval
+Topic-sensitive pagerank.
+Topic-sensitive PageRank.
+Temporal recommendation on graphs via long- and short-term preference fusion.
+Temporal recommendation on graphs via long- and short-term preference fusion.
+Personalizing web page recommendation via collaborative filtering and topic-aware markov model.
+Personalizing Web Page Recommendation via Collaborative Filtering and Topic-Aware Markov Model.
+On prediction using variable order markov models.
+On Prediction Using Variable Order Markov Models.
+Filtering data based on human-inspired forgetting.
+Filtering Data Based on Human-Inspired Forgetting.
+Context-aware mobile music recommendation for daily activities.
+Context-aware mobile music recommendation for daily activities.
+Bayesian variable order markov models.
+Bayesian variable order Markov models.
+An on-line algorithm for semantic forgetting.
+An On-Line Algorithm for Semantic Forgetting.
+An empirical comparison of forgetting models.
+An empirical comparison of forgetting models.
+A tutorial on spectral clustering.
+A Tutorial on Spectral Clustering
+Interactive dynamics for visual analysis.
+Interactive dynamics for visual analysis.
+Optimal Compaction of Orthogonal Grid Drawings.
+Optimal Compaction of Orthogonal Grid Drawings.
+Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational, Helsinki, Finland, October 26-30, 2014
+Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational, Helsinki, Finland, October 26-30, 2014
+The infovis toolkit
+The InfoVis Toolkit.
+One-class Collaborative Filtering with Random Graphs: Annotated Version.
+One-class Collaborative Filtering with Random Graphs: Annotated Version.
+We know how you live: exploring the spectrum of urban lifestyles.
+We know how you live: exploring the spectrum of urban lifestyles.
+Tensor decompositions and applications.
+Tensor Decompositions and Applications.
+Solving large scale linear prediction problems using stochastic gradient descent algorithms.
+Solving large scale linear prediction problems using stochastic gradient descent algorithms.
+Sensing the pulse of urban refueling behavior.
+Sensing the pulse of urban refueling behavior.
+Reconstructing individual mobility from smart card transactions: A space alignment approach.
+Reconstructing Individual Mobility from Smart Card Transactions: A Space Alignment Approach.
+Novelty and redundancy detection in adaptive filtering.
+Novelty and redundancy detection in adaptive filtering.
+Novel recommendation based on personal popularity tendency.
+Novel Recommendation Based on Personal Popularity Tendency.
+Novel item recommendation by user profile partitioning.
+Novel Item Recommendation by User Profile Partitioning.
+Matching points of interest from different social networking sites.
+Matching Points of Interest from Different Social Networking Sites.
+Location recommendation for location-based social networks.
+Location recommendation for location-based social networks.
+Learning from labeled features using generalized expectation criteria.
+Learning from labeled features using generalized expectation criteria.
+Generalized expectation criteria for semi-supervised learning of conditional random fields.
+Generalized Expectation Criteria for Semi-Supervised Learning of Conditional Random Fields.
+Discriminative language modeling with conditional random fields and the perceptron algorithm.
+Discriminative Language Modeling with Conditional Random Fields and the Perceptron Algorithm.
+Being accurate is not enough: how accuracy metrics have hurt recommender systems.
+Being accurate is not enough: how accuracy metrics have hurt recommender systems.
+A multilinear singular value decomposition.
+A Multilinear Singular Value Decomposition.
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).

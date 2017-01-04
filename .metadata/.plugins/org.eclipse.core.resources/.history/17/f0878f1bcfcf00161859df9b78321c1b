@@ -1,0 +1,430 @@
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Enumeration;
+import java.util.Hashtable;
+
+
+import com.opencsv.CSVReader;
+
+
+
+
+/*
+ * this class used to test the article pagerank algorithm
+ */
+public class ArticlePageRank {
+	
+	/* store paper data from visualization publication data
+	 * refined 2016/11/11
+	 */	 
+	class VisPaper{
+		public String _conference="";
+		public int _year=0;
+		public String _title="";
+		public String _doi="";
+		public String _link="";
+		public String _abstract="";
+		public String _authors="";		
+		public String _references="";
+		public String _keywords="";
+		
+		public String _id="";
+		
+		public int _citationCount=0;
+	}
+
+	// the map of the vispaper titles to the vispaper
+	private Hashtable<String, VisPaper> tbTitle2Paper=new Hashtable<String, VisPaper>();
+	
+	// the map of the vispaper number to the vispaper
+	private Hashtable<String, VisPaper> tbDOI2Paper=new Hashtable<String, VisPaper>();
+	
+	// map author to index
+	private Hashtable<String, Integer> tbAuthor2Index=new Hashtable<String, Integer>();
+	
+	// map article to index
+	private Hashtable<String, Integer> tbArticle2Index=new Hashtable<String, Integer>();
+	
+	// array of the article title
+	private String arrArticle[]=null;
+	
+	// matrix of the reference
+	private int LinkMatrix[][];
+	
+	// matrix of the article and author
+	private int ArticleAuthorMatrix[][];
+	
+	// the weight of the articles
+	private double[] arrArticleWeight;
+	private double[] arrArticleWeightNew;
+	
+	// the weight of the authors
+	private double[] arrAuthorWeight;
+	
+	// link numbers of each article
+	private int[] arrArticleLinkNum;
+	
+	// author numbers of each article
+	private int[] arrArticleAuthorNum;
+	
+	// number of Articles
+	private int nArticleNum=0;
+	
+	// number of Articles
+	private int nAuthorNum=0;
+	
+	/* load the visualization publication data
+	 * store in the above struct
+	 * refined 2016/11/11
+	 * add two parameter to set the range of the year
+	 */
+	void loadVisualizationPublicationData(int minYear,int maxYear){
+        String csvFile = "F:/Data/Visualization Publication Data/IEEE VIS papers 1990-2015 - Main dataset.csv";
+        CSVReader reader = null;
+//        int min=3000;
+//        int max=0;
+        try {
+            reader = new CSVReader(new FileReader(csvFile));
+            String[] fields = reader.readNext();	// skip the first line
+            while ((fields = reader.readNext()) != null) {
+            	VisPaper vp=new VisPaper();
+            	vp._conference=fields[0];
+            	vp._year=Integer.parseInt(fields[1]);
+            	vp._title=fields[2];
+            	vp._doi=fields[3];
+            	vp._link=fields[4];
+            	vp._abstract=fields[9];
+            	vp._authors=fields[10];
+            	vp._references=fields[14];
+            	vp._keywords=fields[15];
+            	if(vp._year>minYear&& vp._year<maxYear){
+                	tbTitle2Paper.put(vp._title, vp);
+                	tbDOI2Paper.put(vp._doi, vp); 
+            	}
+            	
+            	// test the year range
+//            	if(vp._year<min) min=vp._year;
+//            	else if(vp._year>max) max=vp._year;
+            	
+            }
+//            System.out.println("Year range: "+min+"-"+max);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+	}
+	
+	// build the matrix of the articles and the authors
+	void buildMatrix(){
+		// 1.build the article map and calculate the article number
+		Enumeration<String> e = tbTitle2Paper.keys();
+		while (e.hasMoreElements()){
+			String title=e.nextElement();
+			VisPaper vp=tbTitle2Paper.get(title);
+			if(!tbArticle2Index.containsKey(title)) tbArticle2Index.put(title, nArticleNum++);			
+		}
+		// 2.build Link Matrix and author table and article title array
+		arrArticle = new String[nArticleNum];
+		LinkMatrix=new int[nArticleNum][nArticleNum];
+		for(int i=0;i<nArticleNum;i++){
+			for(int j=0;j<nArticleNum;j++){
+				LinkMatrix[i][j]=0;
+			}			
+		}
+		e = tbTitle2Paper.keys();
+		while (e.hasMoreElements()){
+			String title=e.nextElement();
+			VisPaper vp=tbTitle2Paper.get(title);
+			int nIndexFrom=tbArticle2Index.get(title);
+			arrArticle[nIndexFrom]=title;
+			// reference
+			String[] refs=vp._references.split(";");
+			for(String strRef: refs){
+//				System.out.println(strRef);
+				VisPaper vpTo=tbDOI2Paper.get(strRef);
+				if(vpTo!=null){
+//					System.out.println(vpTo);					
+//					System.out.println(vpTo._title);
+					int nIndexTo=tbArticle2Index.get(vpTo._title);
+					LinkMatrix[nIndexFrom][nIndexTo]=1;
+					vpTo._citationCount++;
+					
+				}
+			}
+			// author
+			String[] authors=vp._authors.split(";");
+			for(String strA: authors){
+				if(strA.length()>3){
+					if(!tbAuthor2Index.contains(strA)){
+						tbAuthor2Index.put(strA, nAuthorNum++);
+					}
+				}				
+			}
+		}
+		
+		// 3.build the article author matrix
+		ArticleAuthorMatrix=new int[nArticleNum][nAuthorNum];
+		for(int i=0;i<nArticleNum;i++){
+			for(int j=0;j<nAuthorNum;j++){
+				ArticleAuthorMatrix[i][j]=0;
+			}			
+		}
+		e = tbTitle2Paper.keys();
+		while (e.hasMoreElements()){
+			String title=e.nextElement();
+			VisPaper vp=tbTitle2Paper.get(title);
+			int nIndexFrom=tbArticle2Index.get(title);
+			// author
+			String[] authors=vp._authors.split(";");
+			for(String strA: authors){
+				if(strA.length()>3){
+					int nIndex=tbAuthor2Index.get(strA);
+					ArticleAuthorMatrix[nIndexFrom][nIndex]=1;
+				}				
+			}
+		}
+		
+		// 4.build the weight table
+		arrAuthorWeight=new double[nAuthorNum];
+		arrArticleWeight=new double[nArticleNum];
+		for(int i=0;i<nAuthorNum;i++){
+			arrAuthorWeight[i]=0;
+		}
+		for(int i=0;i<nArticleNum;i++){
+			arrArticleWeight[i]=1.0;
+		}
+		
+		// 5.calculate the number of links of each article, and number of authors of each article
+		arrArticleLinkNum=new int[nArticleNum];
+		for(int i=0;i<nArticleNum;i++){
+			int nLinks=0;
+			for(int j=0;j<nArticleNum;j++){
+				nLinks+=LinkMatrix[i][j];
+			}
+			arrArticleLinkNum[i]=nLinks;
+		}
+		arrArticleAuthorNum=new int[nArticleNum];
+		for(int i=0;i<nArticleNum;i++){
+			int nAuthors=0;
+			for(int j=0;j<nAuthorNum;j++){
+				nAuthors+=ArticleAuthorMatrix[i][j];
+			}
+			arrArticleAuthorNum[i]=nAuthors;
+		}
+		
+		System.out.println(nAuthorNum);
+		System.out.println(nArticleNum);
+	}
+	
+	// do the rank loop
+	void doTheRankLoop(){
+		arrArticleWeightNew=new double[nArticleNum];
+		double arrLastArticleWeightNew[] = null;
+		double arrLastArticleWeight[] = null;
+		double dbLastBias=0;
+		double dbLastBiasNew=0;
+		
+		for(int l=0;l<1000;l++){
+			ArticleWeight weight=rank();
+			arrArticleWeightNew=weight.arrRankedWeight;
+			arrArticleWeight=weight.arrCollectedWeight;
+			
+			// 4.check the change
+			if(l>1){
+				double dbBias=checkChange(arrArticleWeight,arrLastArticleWeight,nArticleNum);
+				double dbBiasNew=checkChange(arrArticleWeightNew,arrLastArticleWeightNew,nArticleNum);
+//				System.out.println(l);
+//				System.out.println(dbBias);
+//				System.out.println(dbBiasNew);
+//				System.out.println();
+				if(l>50 && (dbBias>dbLastBias || dbBiasNew>dbLastBiasNew)) break;
+				dbLastBias=dbBias;
+				dbLastBiasNew=dbBiasNew;
+			}
+			arrLastArticleWeight=arrArticleWeight.clone();
+			arrLastArticleWeightNew=arrArticleWeightNew.clone();			
+		}	
+
+	}
+	
+	
+	
+	class ArticleWeight{
+		double arrRankedWeight[]=null;
+		double arrCollectedWeight[]=null;
+		public ArticleWeight(double []arrRW,double[] arrCW){
+			arrRankedWeight=arrRW;
+			arrCollectedWeight=arrCW;
+		}
+	};
+	
+	/*
+	 * do a rank
+	 * includ three step
+	 */
+	private ArticleWeight rank(){
+		double arrArticleWeightNew[]=new double[nArticleNum];
+		// 1.Rank by reference
+		for(int i=0;i<nArticleNum;i++){
+			double dbWeight=0;
+			for(int j=0;j<nArticleNum;j++){
+				if(LinkMatrix[j][i]==1){
+					dbWeight+=arrArticleWeight[j]/arrArticleLinkNum[j];
+//					System.out.println(arrArticleLinkNum[j]);
+				}
+			}
+			arrArticleWeightNew[i]=dbWeight;
+		}
+		// 2.Allocate the weight to the author
+		for(int i=0;i<nAuthorNum;i++){
+			arrAuthorWeight[i]=0;
+		}
+		for(int i=0;i<nArticleNum;i++){
+			double dbWeight=arrArticleWeightNew[i]/arrArticleAuthorNum[i];
+			
+			for(int j=0;j<nAuthorNum;j++){
+				if(ArticleAuthorMatrix[i][j]==1){
+					arrAuthorWeight[j]+=dbWeight;
+				}
+			}
+		}
+		
+		// 3.collect the weight to the article
+		for(int i=0;i<nArticleNum;i++){
+			arrArticleWeight[i]=0.0;
+			for(int j=0;j<nAuthorNum;j++){
+				if(ArticleAuthorMatrix[i][j]==1){
+					arrArticleWeight[i]+=arrAuthorWeight[j];
+				}
+			}
+		}		
+
+		arrArticleWeight=normalize(arrArticleWeight,nArticleNum,nArticleNum);
+		
+		return new ArticleWeight(arrArticleWeightNew,arrArticleWeight);
+		
+	}
+	
+	/* normalize a array
+	 * len: length of the array
+	 * weight: the total weight
+	 */	
+	private double[] normalize(double[] arr,int len,double weight){
+		double result[]=new double[len];
+		double dbSum=0.0;
+		for(int i=0;i<len;i++){
+			dbSum+=arr[i];
+		}
+		dbSum=weight/dbSum;
+		for(int i=0;i<len;i++){
+			result[i]=arr[i]*dbSum;
+		}
+		return result;
+	}
+	
+	/*
+	 * check the change of two arrays
+	 */
+	private double checkChange(double[] arr1,double[] arr2,int len){
+		double dbResults=0;
+		for(int i=0;i<len;i++){
+			double dbBias=arr1[i]-arr2[i];
+			dbResults+=dbBias*dbBias;
+		}
+		return dbResults;
+	}
+
+	/*
+	 * the result of the output
+	 */
+	class Result{
+		String _title;
+		double _w1;
+		double _w2;
+		int _count;
+	}
+	
+	/*
+	 * Print the result of the given year
+	 */
+	void PrintResult(int year){
+		// original, directly print the two array
+//		arrArticleWeightNew=normalize(arrArticleWeightNew,nArticleNum,nArticleNum);		
+//		for(int i=0;i<nArticleNum;i++){
+//			System.out.println(arrArticleWeightNew[i]);
+//		}		
+//		System.out.println("=================================");		
+//		for(int i=0;i<nArticleNum;i++){
+//			System.out.println(arrArticleWeight[i]);
+//		}
+		
+		ArrayList<Result> arrResult=new ArrayList<Result>();
+		
+		arrArticleWeightNew=normalize(arrArticleWeightNew,nArticleNum,nArticleNum);		
+		for(int i=0;i<nArticleNum;i++){
+			if(tbTitle2Paper.get(arrArticle[i])._year==year){
+				Result r=new Result();
+				r._title=arrArticle[i];
+				r._w1=arrArticleWeightNew[i];
+				r._w2=arrArticleWeight[i];
+				arrResult.add(r);
+//				System.out.print(arrArticle[i]+"\t");
+//				System.out.print(arrArticleWeightNew[i]+"\t");
+//				System.out.println(arrArticleWeight[i]);				
+			}
+		}		
+		
+	}
+	
+	/*
+	 * print the citation count of the year
+	 */
+	void PrintCitationCount(int year){		
+		for(int i=0;i<nArticleNum;i++){
+			VisPaper p=tbTitle2Paper.get(arrArticle[i]);
+			if(p._year==year){
+				System.out.print(arrArticle[i]+"\t");
+				System.out.print(p._citationCount+"\t");
+				System.out.print(arrArticleWeightNew[i]+"\t");
+				System.out.println(arrArticleWeight[i]);				
+			}
+		}		
+	}
+	
+	/*
+	 * check the articles without any weight
+	 */
+	void checkArticlesWithoutWeight(){
+		ArticleWeight weight = rank();
+		int nCount=0;
+		for(int i=0;i<nArticleNum;i++){
+			if(weight.arrCollectedWeight[i]<0.0000001 && weight.arrRankedWeight[i]<0.000001){
+				nCount++;
+				System.out.println(arrArticle[i]+"\t"+tbTitle2Paper.get(arrArticle[i])._year);
+			}
+		}
+		System.out.println(nCount);
+	}
+	
+	public static void main(String[] args){
+		ArticlePageRank test=new ArticlePageRank();
+		
+		// 1.load data
+		test.loadVisualizationPublicationData(0,3011);
+		
+		// 2.build link matrix and article author matrix and author list
+		test.buildMatrix();
+		
+		
+		// 3.try to loop: article->author VS. author->article. authority
+		test.doTheRankLoop();
+		
+//		test.PrintResult(2010);
+		
+		test.PrintCitationCount(2010);
+		
+//		test.checkArticlesWithoutWeight();
+		
+		System.out.println("finished");
+	}
+}

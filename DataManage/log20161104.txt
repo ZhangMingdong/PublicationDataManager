@@ -1,0 +1,2198 @@
+Number of not matched items:1960
+============Not Matched============
+A balanced memory-based collaborative filtering similarity measure
+IEEE International Conference on Data Mining (ICDM)2008
+Lp-norm IDF for scalable image retrieval
+The problem of concept drift: definitions and related work.
+Temporal recommendation on graphs via long-and short-term preference fusion.
+State-of-the-Art of Visualization for Eye Tracking Data
+A Quasi-Systematic Review on Software Visualization Approaches for Software Reuse
+Probabilistic inference using markov chain monte carlo methods.
+Visualization Publication Dataset
+Nonparametric maxmargin matrix factorization for collaborative prediction.
+Fronts propagating with curvaturedependent speed: Algorithms based on Hamilton每Jacobi formulations
+The state art in visualizing dynamic graphs
+Maximummargin matrix factorization.
+Vizualization of fuzzy clustering results by modified Sammon mapping
+Social Network Analysis: History, Theory
+A new approach to linear filtering and prediction problems.
+Coupled binary embedding for largescale image retrieval
+Boundary detection by minimizing functionals
+The self-organizing map
+Bootstrapped Confidence Intervals as an Approach to Statistical Inference
+The focused organization of social ties
+The Algebra of Geometry: Cartesian, Areal and Projective Co-ordinates
+A two-stage image segmentation method using a convex variant of the Mumford每Shah model and thresholding
+A shape-initialized and intensityadaptive level set method for auroral oval segmentation
+Two endto-end shallow discourse parsers for english and chinese in conll-2016 shared task.
+Silhouettes: A graphical aid to the interpretation and validation of cluster analysis
+Scatterplot matrix techniques for large
+A fast level set method for propagating interfaces
+Pathbased supports for hypergraphs
+Parallel coordinates for visualizing multi-dimensional geometry
+Modern Multidimensional Scaling: Theory and Applications
+Semi-supervised learning for natural language.
+Learning the parts of objects by non-negative matrix factorization
+Sdp-jaist: A shallow discourse parsing system conll 2016 shared task.
+Rhetorical Structure Theory: Toward a functional theory of text organization.
+PDTBstyle annotation of Chinese text.
+Graph Drawing: Algorithms for the Visualization of Graphs
+Fuzzy cluster algorithm for the automatic identification of joint sets
+Opt: Oslo每 potsdam每teesside. pipelining rules, rankers, and classifier ensembles for shallow discourse parsing.
+Logics of conversation.
+Improving the Reproducibility of PAN＊s Shared Tasks: Plagiarism Detection, Author Identification, and Author Profiling.
+Improved inferencing for unlexicalized parsing.
+A survey of fuzzy clustering
+A novel visualization approach for datamining-related classification
+Discourse relation sense classification using crossargument semantic similarity based on word embeddings.
+An endto-end chinese discourse parser with adaptation to explicit and non-explicit relation recognition.
+A maximum entropy approach to Chinese word segmentation.
+The strength of weak ties: A network theory revisited
+The strength of weak ties
+Networks, crowds, and markets: Reasoning about a highly connected world.
+Correlation-based feature subset selection for machine learning
+Birds of a feather: Homophily in social networks
+Visualization methods for longitudinal social networks and stochastic actororiented modeling.
+Visual enterprise network analytics 每 Visualizing organizational change.
+Visual analysis of largescale network anomalies.
+The ※mental map§ versus ※static aesthetic§ compromise in dynamic graphs: a user study.
+The ※Map§ in the mental map: Experimental results in dynamic graph drawing.
+SemaTime 每 Timeline visualization of time-dependent relations and semantics.
+On-line animat visualization of huge graphs using a modified spring algorithm.
+On the readability of graphs using node-link and matrixbased representations: A controlled experiment and statistical analysis.
+How important is the ※mental map§? 每 An empirical investigation of a dynamic graph layout algorithm graph drawing.
+What＊s being said near §Martha§? Exploring name entities in literary text collections
+Graphs, they are changing 每 dynamic graph drawing for a sequence of graphs.
+Recommendation and visualization of similar movies using minimum spanning dendrograms
+Waltz - an exploratory visualization tool for volume data, using multiform abstract displays.
+Cognitive maps: What are they and why study them?
+Das Bild als kommunikatives Medium. Elemente einer allgemeinen Bildwissenschaft
+Coauthorship networks and patterns of scientific collaboration
+Beautiful Evidence (1st edition).
+The dataflow visualization pipeline as a problem solving environment.
+A Nested Model for Visualization Design and Validation
+The SCIRun Computational Steering Software System
+VarifocalReader 每 In-Depth Visual Analysis of Large Text Documents
+Structured Systems Analysis: Tools and Techniques
+On encouraging coupled views for visualization exploration.
+Gravity for Beginners
+Modern multidimensional scaling: Theory and applications (second edition).
+Managing Rapidly-Evolving Scientific Workflows,
+IRIS Explorer: A framework for investigation.
+ShakerVis: Visual analysis of segment variation of German translations of Shakespeare＊s Othello.
+A validated regulatory network for Th17 cell specification.
+VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model
+Make New Friends, but Keep the Old§ 每 Recommending People on Social Networking Sites
+A probabilistic model for online document clustering with application to novelty detection
+Topics over time: a non-markov continuoustime model of topical trends
+Wilmascope graph visualization.
+The temporal perspective on groups.
+Exploratory Analysis of Spatial and Temporal Data: A Systematic Approach
+Rule-based Visual Mappings每 with a Case Study on Poetry Visualization
+Altmetrics-based visualizations depicting the evolution of a knowledge domain.
+IEEE InfoVisundefined
+The median heuristic for drawing 2-layers networks
+On an edge crossing problem
+Contextpreserving, dynamic word cloud visualization
+Topic detection and tracking: event-based information organization
+Overlaying graph links on treemaps
+State of the Art of Performance Visualization
+Eye tracking evaluation of visual analytics
+Infozoom - analysing formula one racing results with an interactive data mining and visualisation tool
+Database analysis and design
+Contest, The History of InfoVis
+Analysing ambulance dispatcher decision making: trialing emergent themes analysis
+Sensemaking in organizations, volume 3
+A Survey of E-Commerce Recommender Systems
+An overview of content analysis
+Orthogonal connector routing
+Sensemaking for the rest of us
+Perceptual organization in usergenerated graph layouts
+Network structure and minimum degree
+Graph drawing aesthetics每 created by users, not algorithms
+Validating graph drawing aesthetics
+Lightweight provenance-driven exploration
+Using software in qualitative research: A stepby-step guide
+A Macrocognitive Model Human-Centered Computing A Macrocognitive Model
+The effect of spatial arrangement on judgments and errors in interpreting graphs
+Fast detection and display of symmetry in trees
+Applied thematic analysis
+The analysis of proximities: Multidimensional scaling with an unknown distance function.
+Characterizing users＊ visual analytic activity for insight provenance
+HARVEST: An Intelligent Visual Analytic Tool for the Masses
+Position Statement: Musings on Provenance, Workflow and (Semantic Web) Annotations for Bioinformati
+Multidimensional scaling: I
+GraphTrail: Analyzing Large Multivariate and Heterogeneous Networks while Supporting Exploration History
+An overview of sense-making research: Concepts, methods, and results to date
+Glass box: capturing, archiving, and retrieving workstation activities
+Grounded theory methodology
+How much has the global temperature risen in the last 100 years?
+Topology-driven force-directed algorithms
+Gravi++: Interactive information visualization to explore highly structured temporal.
+Fast node overlap removal: Correction.
+Dynamic Connectivity at Rest Predicts Attention Task Performance
+D3: Data-Driven Documents
+Dimensionality reduction: A comparative review
+Visualizing and discovering nontrivial patterns in large time series databases.
+Dimensionality reduction in the wild: Gaps and guidance.
+A qualititative approach to HCI research
+Visualization of sensor data from animal movement.
+Differentiating BOLD and non-BOLD signals in fMRI time series using multiecho EPI.
+Comparison of automatic shot boundary detection algorithms.
+Trends and perspectives in animalattached remote sensing.
+Audio curves
+Analytic provenance: process+ interaction+ insight.
+The value of visualization...and why interaction matters, capstone speech, eurovis
+A review of multidimensional scaling (MDS) and its utility in various psychological domains
+A global geometric framework for nonlinear dimensionality reduction.
+Speeds and wingbeat frequencies of migrating birds compared with calculated benchmarks.
+Relaxed selection techniques for querying timeseries graphs.
+Perceptual grouping and attention in visual search for features and objects.
+Line graph explorer: scalable display of line graphs using focus+ context.
+Interactive data visualization: foundations, techniques, and applications.
+Identification of animal movement patterns using tri-axial accelerometry.
+How maps work: representation, visualization, and design.
+Does (multi-)touch aid users＊ spatial memory and navigation in ＊panning＊ and in ＊zooming &; panning＊ UIs?
+Judging Correlation From Scatterplots and Parallel Coordinate Plots
+State-of-the-art report of visual analysis for event detection in text data streams
+Visual sentiment analysis of RSS news feeds featuring the US presidential election in
+Framing as a theory of media effects
+Effects of temperature and precipitation variability on the risk of violence in sub-saharan africa
+Applied linear statistical models, 5th edition, volume
+Introduction to Time Series Analysis and Forecasting
+Exploring point and interval event patterns: Display methods and interactive visual query
+Storytracker: Incremental visual text analytics of news story development
+Decisionflow: Visual analytics for highdimensional temporal event sequence data
+Visualization and analysis of multi-variate data: A technique for all fields
+Framing: Toward clarification of a fractured paradigm
+Visual analytics of media frames in online news and blogs
+Compare clouds: Visualizing text corpora to compare media frames
+Visits: A spatiotemporal visualization of location histories
+Framing theory
+Understanding complex multi-threaded software systems by using trace visualization
+Uncovering interactions between moving objects
+Framing processes and social movements: An overview and assessment. Annual Review of Sociology
+TrajectoryLenses: A set-based filtering and exploration technique for longterm trajectory data
+The space-time cube revisited from a geovisualization perspective
+State of the art: Coordinated & multiple views in exploratory visualization
+Snap-together visualization: A user interface for coordinating visualizations via relational schemata
+Scalable and privacy-respectful interactive discovery of place semantics from human mobility traces
+Geo-spatial visualization for situational awareness
+Proximitybased visualization of movement trace data
+Interactive analysis of time intervals in a twodimensional space
+Interactive analysis of object group changes over time
+Visual analytics for the big data era---A comparative review of state-of-the-art commercial systems
+Gender, the home-work link, and space-time patterns of nonemployment activities
+Comparative visualization of construction schedules
+Combing the communication hairball: Visualizing large-scale parallel execution traces using logical time
+D&#x0B3; Data-Driven Documents
+MITEXTEXPLORER: Linked brushing and mutual information for exploratory text data analysis
+The Grammar of Graphics (Statistics and Computing
+ggplot2: Elegant Graphics for Data Analysis
+Variational inference for Dirichlet process mixtures
+Visualization in medicine: VIRTUAL reality or ACTUAL reality ?
+Graphing software. http://www.edwardtufte.com/ bboard/q-and-a-fetch-msg?msg_id=00000p
+Comparative Analysis of Multidimensional; Quantitative Data
+The GeoJSON Format Specification
+Case study: visualizing classical problems in CFD
+The RenderMan Interface version
+The Psychology of Everyday Things
+Monte Carlo Statistical Methods, ser
+Google I/O keynote
+Smooth Subdivision Surfaces Based On Triangles
+Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration
+Recursively Generated BSpline Surfaces on Arbitrary Topology Meshes.
+Real-time rendering techniques with hardware tessellation.
+Learning object categories from Google＊s image search
+Integrating topics and syntax
+Inference of population structure using multilocus genotype data: linked loci and correlated allele frequencies
+Colorbrewer.org: An online tool for selecting color schemes for maps
+Hadoop: The Definitive Guide
+Fast, easy and cheap: Construction of statistical machine translation models with MapReduce
+editors. Readings in information visualization: using vision to think
+Squarified treemaps
+Distributed Inference for Latent Dirichlet Allocation
+Brushing scatterplots
+Data-Intensive Text Processing with MapReduce, ser
+Apache Mahout
+Dynamic featureadaptive subdivision.
+Catmull-clark subdivision surfaces.
+Behaviour of recursive division surfaces near extraordinary points.
+Accelerated variational Dirichlet process mixtures
+A probabilistic model of unsupervised learning for musical-key profiles
+Approximating CatmullClark subdivision surfaces with bicubic patches.
+Linguistic Inquiry and Word Count, 1st ed. Lawrence Erlbaum,1999
+Trec special database1994
+Adaptive tessellation of subdivision surfaces with displacement mapping.
+Towards time-dependant recommendation based on implicit feedback.
+The unengaged mind defining boredom in terms of attention.
+The netflix prize.
+Tensor decompositions, alternating least squares and other tales.
+Survival models and data analysis, volume 110.
+Survival analysis.
+Music recommendation datasets for research.
+Modeling inertia and variety seeking tendencies in brand choice behavior.
+Measuring variety-seeking and reinforcement behaviors using panel data.
+Loss of self-control in intertemporal choice may be attributable to logarithmic time-perception.
+Implicit feedback for recommender systems.
+Chromatin decondensation: case study of tracking features in confocal data
+Economic duration data and hazard functions.
+Curiosity, exploratory drive, and stimulus satiation.
+Multidimensional real time visualization on personal computers
+Combining content-based and collaborative filters in an online newspaper.
+An efficient forward-backward algorithm for an explicit-duration hidden markov model.
+Amazon. com recommendations: Item-to-item collaborative filtering.
+Scientific visualization from inside the metacomputer
+A dynamic attribute satiation model of variety-seeking behavior.
+Cluster Analysis of Vortical Flow in Simulations of Cerebral Aneurysm Hemodynamics
+Trade-offs for fully dynamic transitive closure on DAGs: Breaking through the O(n2) barrier
+Visualization and three-dimensional image processing of positron emission tomography (PET) brain images
+Maintaining shortest paths under deletions in weighted directed graphs (extended abstract)
+The visual display of quantitative information
+Introduction to computer graphics
+A survey of Venn diagrams
+Rethinking perceptual organization: the role of uniform connectedness
+Visual Encodings of Temporal Uncertainty: A Comparative User Study
+SemaTime〞timeline visualization of time-dependent relations and semantics
+DBLP 〞 Some Lessons Learned
+Timeline: the CIA Leak Case
+Stacked Graphs 每 Geometry & Aesthetics
+Cartographies of time: a history of the timeline
+Anisotropic Ambient Volume Shading
+Realistic volume imaging
+Visualization of cardiac bioelectricity-a case study
+Information Exploration Shootout or "Benchmarks for Information Exploration"
+Who Rules Infovis? Unwrapping the Conference Organization
+Fanal: A relational analysis and visualization package for high energy physics
+Visualization of scalar data defined on a structured grid-applications to petroleum research
+UFAT-a particle tracer for time-dependent flow fields
+Topology of small-world networks of protein-protein complex structures.
+Simple linear time approximation algorithm for betweenness.
+Scaling laws in the spatial structure of urban road networks.
+Models of social networks based on social distance attachment.
+Case study: the "Office of Real Soon Now" for visualization
+Centrality in valued graphs: A measure of betweenness based on network flow.
+Enabling Classification and Shading for 3D Texture Mapping based Volume Rendering using OpenGL and Extensions
+Betweenness-based decomposition methods for social and biological networks.
+Betweenness centrality as an indicator of the interdisciplinarity of scientific journals.
+Distributed visualization using workstations, supercomputers, and high speed networks
+Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization
+A Round-Trip to the Annotation Store: Open, Transferable Semantic Annotation of Biomedical Publications
+ReactionFlow: An interactive visualization tool for causality analysis in biological pathways
+IEEE Symposium on Information Visualization 2003 (IEEE Cat. No.03TH8714)
+PathwayMatrix: Visualizing binary relationships between proteins in biological pathways
+Matches, Mismatches, and Methods: Multiple-View Workflows for Energy Portfolio Analysis
+A faster algorithm for betweenness centrality.
+EVA: Extraction, Visualization and Analysis of the Telecommunications and Media Ownership Network,undefined
+MatrixExplorer: A dualrepresentation system to explore social networks
+Hierarchical triangulation using terrain features
+Interactive folksonomic analytics with the Tag River visualization
+Digital design of a surgical simulator for interventional MR imaging
+Automatic Discovery of Logical Document Structure
+Edward Snowden comes forward as source of NSA leaks
+Rete: a fast algorithm for the many pattern/many object pattern match problem
+Visualization and modelling of geophysical data
+Overview of BioCreative II gene normalization
+A taxonomy and survey of dynamic graph visualization
+Evaluation of text-mining systems for biology: overview of the Second BioCreative community challenge
+The TREC 2004 genomics track categorization task: classifying full text biomedical documents
+The Cambridge Learner Corpus - error coding and analysis for lexicography and ELT.
+Biomedical named entity recognition using conditional random fields and rich feature sets
+Text mining for biology每the way forward: opinions from leading scientists
+Facts from text每is text mining ready to deliver
+METEOR: an automatic metric for MT evaluation with improved correlation with human judgments.
+Ground truth for grammatical error correction metrics.
+Opening the black box - data driven visualization of neural networks
+Data Memes For Personal Visualization
+The Illinois-Columbia System in the CoNLL-2014 Shared Task. In Proceedings of the 18th Conference on Computational Natural Language Learning: Shared Task,2014
+Neural Machine Translation by Jointly Learning to Align and Translate. CoRR, abs/1409.0473.2014
+Twenty-five years of groupthink theory and research: Lessons from the evaluation of a theory
+Timeliness of tissue-type plasminogen activator therapy in acute ischemic stroke patient characteristics, hospital factors, and outcomes associated with door-to-needle times within 60 minutes.
+Statistical process control as a tool for research and healthcare improvement
+Sketching user experiences: getting the design right and the right design: getting the design right and the right design.
+Revised and updated recommendations for the establishment of primary stroke centers a summary statement from the brain attack coalition.
+Prenotification and other factors involved in rapid tpa administration
+Marks and channels.
+Interactive information visualization to explore and query electronic health records
+Graphical summary of patient status.
+Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the global burden of disease study 2010
+Designing Qualitative Research.
+Contextual Design.
+Connecting timeoriented data and information to a coherent interactive visualization.
+Application of statistical process control in healthcare improvement: systematic review
+MObjects--A Novel Method for the Visualization and Interactive Exploration of Defects in Industrial XCT Data
+Alive and well after 25 years: A review of groupthink research.
+VEEVVIE: Visual Explorer for Empirical Visualization, VR and Interaction Experiments
+Poster: Visualizing protein interaction networks as google maps
+Perceptual guidelines for creating rectangular treemaps,
+Perception of animated nodelink diagrams for dynamic graphs
+Exploration of networks using overview? detail with constraint-based cooperative layout
+Visualization in the neurosciences: utility in research, teaching, and clinical practice
+TetSplat: real-time rendering and volume clipping of large unstructured tetrahedral meshes
+Designing with the mind in mind: Simple guide to understanding user interface design rules.
+Orientation maps: Techniques for visualizing rotations (A  Consumer＊s Guide)
+High-Quality, Semi-Analytical Volume Rendering for AMR Data
+Bubble sets: Revealing set relationswithIsocontoursoverexistingvisualizations
+Visibility culling using plenoptic opacity functions for large volume visualization
+A breadth-first survey of eye-tracking applications
+Vector fields simplification-a case study of visualizing climate modeling and simulation data sets
+GASP-a system for visualizing geometric algorithms
+Distribution Driven Extraction and Tracking of Features for Time-varying Data Analysis
+Visualizing Sets and Set-typed Data: State-of-the-Art and Future Challenges
+Adaptive information visualization based on the user's multiple viewpoints - interactive 3D visualization of the WWW
+Beyond Memorability: Visualization Recognition and Recall
+Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations
+Fewer women run big companies than men named
+Drawing dynamic visualizations
+Annotation of temporal relations with Tango
+Net neutrality activists score landmark victory in fight to govern the internet
+How dealing with climate change is like playing cricket
+Hey wonk reporters, liberate your data! Mother
+TimeSpan: Using Visualization to Explore Temporal Multi-dimensional Data of Stroke Patients
+IVORY-an object-oriented framework for physics-based information visualization in Java
+TERNIP: Temporal Expression Recognition and Normalisation in Python
+Lecture at ※See
+Timeline: Leads in the hunt for Malaysia Airlines Flight 370 weave drama
+Tools & tutorials from NICAR
+Taxonomy-Based Glyph Design---with a Case Study on Visualizing Workflows of Biological Experiments
+Clothing image retrieval for smarter shopping.
+Feature Comparisons Of 3-D Vector Fields Using Earth Mover＊s Distance
+Making timelines
+An intelligent clothes search system based on fashion style.
+Edward Snowden and the NSA files 每 timeline
+From words to pictures: Text analysis and visualization
+Planar Visualization of Treelike Structures
+Quasi-static approach approximation for 6 degrees-of-freedom haptic rendering
+Isosurface extraction in time-varying fields using a Temporal Branch-on-Need Tree (T-BON)
+Optimal Sets of Projections of High-Dimensional Data
+Diderot: a Domain-Specific Language for Portable Parallel Scientific Visualization and Image Analysis
+Rapid Application Development of eBayanihan Patroller: A Crowdsourcing SMS Service and Web Visualization Disaster Reporting System
+Herarchical splatting of scattered data
+PLIC: bridging the gap between streamlines and LIC
+Visualizing high-dimensional predictive model quality
+LiteVis: Integrated Visualization for Simulation-Based Decision Support in Lighting Design
+Vials: Visualizing Alternative Splicing of Genes
+VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications
+Intuitive Exploration of Volumetric Data Using Dynamic Galleries
+Enhanced visualization of multi-dimensional structures. Applications in positron emission tomography and climate data
+Information Visualization: Perception for Design
+Grand challenge problems in visualization software
+Selection: 524,288 ways to say "this is interesting"
+The 1000 Genomes Project Consortium. A map of human genome variation from population-scale sequencing
+Multimedia environments for scientists
+Evolution and functional impact of rare coding variation from deep sequencing of human exomes
+Pictorial statistics-visualization of high-dimensional statistical distributions
+Visualization for the information age
+ABySSExplorer: Visualizing genome sequence assemblies
+Points of view: Representing the genome
+Points of view: Managing deep data in genome browsers
+A nested model for visualization design and validation
+PathlinesExplorer ??? Image-based exploration of large-scale pathline fields
+MulteeSum: A tool for exploring space-time expression data
+A voxel-based, forward projection algorithm for rendering surface and volumetric data
+Emerging technologies in DNA sequencing
+Improving visualization: theoretical and empirical foundations
+The human genome browser at UCSC
+Initial sequencing and analysis of the human genome
+How do People Make Sense of Unfamiliar Visualizations?: A Grounded Model of Novice&#x0027;s Information Visualization Sensemaking
+JiTTree: A Just-in-Time Compiled Sparse GPU Volume Data Structure
+MedSavant: Visual analytics for genetic variation datasets. BioVis Posters Abstracts
+Music: Identifying mutational significance in cancer genomes
+A Psychophysical Investigation of Size as a Physical Variable
+Ensembl variation resources
+Automatic Selection of Partitioning Variables for Small Multiple Displays
+The cBio cancer genomics portal: An open platform for exploring multidimensional cancer genomics data
+Multi-field Pattern Matching based on Sparse Feature Sampling
+InterAxis: Steering Scatterplot Axes via Observation-Level Interaction
+NeuroBlocks - Visual Tracking of Segmentation and Proofreading for Large Connectomics Projects
+Efficient computation of the topology of level sets
+Cloud tracing in convection-diffusion systems
+Interactive exploration of volume line integral convolution based on 3D-texture mapping
+Acquired Codes of Meaning in Data Visualization and Infographics: Beyond Perceptual Primitives
+A multi-resolution data structure for two-dimensional Morse-Smale functions
+Visualizing data using t-sne
+Line: Largescale information network embedding
+Mining heterogeneous information networks: a structural analysis approach
+Case study: reconstruction, visualization and quantification of neuronal fiber pathways
+Techniques for visualizing Fermat&#39;s last theorem: a case study
+Case study. A WWW viewpoint on scientific visualization: an EPA case study for technology transfer
+City sentinel - VAST 2011 mini challenge 1 award: &#x201C;Outstanding integration of computational and visual methods&#x201D;
+Hanghang Tong, and Danai Koutra. Graph based anomaly detection and description: a survey
+GRASPARC-A problem solving environment integrating computation and visualization
+Profile Flags: a novel metaphor for probing of T<sub>2</sub> maps
+An architecture for rule-based visualization
+Texture splats for 3D scalar and vector field visualization
+Research report. Interacting with huge hierarchies: beyond cone trees
+Case study: visualizing customer segmentations produced by self organizing maps
+gSCorr: Modeling geo-social correlations for new check-ins on locationbased social networks.
+Understanding mobility in a social petri dish.
+Understanding individual human mobility patterns.
+Two widely-different architectural approaches to computer image generation
+HOT-lines: tracking lines in higher order tensor fields
+Novelty and diversity in top-N recommendation每analysis and evaluation.
+Modelling the scaling properties of human mobility.
+Modeling temporal effects of human mobile behavior on locationbased social networks.
+Mobile location prediction in spatio-temporal context.
+Whale Sharks, Boolean Set Operations, and Direct Manipulation
+Limits of predictability in human mobility.
+Gaze Stripes: Image-Based Visualization of Eye Tracking Data
+Accurate Interactive Visualization of Large Deformations and Variability in Biomedical Image Ensembles
+Exploiting geographical influence for collaborative point-ofinterest recommendation.
+Feature-space analysis of unstructured meshes
+Dopamine D4 receptor (D4DR) exon III polymorphism associated with the human personality trait of novelty seeking.
+Adaptive Multilinear Tensor Product Wavelets
+Density estimation for statistics and data analysis.
+Been there, done that: What your mobility traces reveal about your behavior
+The Rician distribution of noisy MRI data
+Real-time visualization of the clear-up of a former US naval base
+A computer movie simulating urban growth in the Detroit region.
+Segmentation of the left ventricle of the heart in 3- MRI data using an optimized nonrigid temporal model
+A Bayesian Interpretation of Interpolated Kneser-Ney.
+Why we tag, motivations for annotation in mobile and online media
+Developing modular application builders to exploit MIMD parallel
+ACM Transactions on Internet Technology (TOIT)2011
+Towards the semantic web: collaborative tag suggestions
+Segmentation of brain MR images via sparse patch representation
+The Elements of Statistical Learning.2001
+Scientific Reports2012
+Level set segmentation from multiple non-uniform volume datasets
+Controlled simplification of genus for polygonal models 
+Nonrigid registration using free-form deformations: Application to breast MR images
+Nonlocal regularization for active appearance model: Application to medial temporal lobe segmentation
+Case study in scientific visualization: factors inducing periodic breathing in humans with blunted hypoxic sensitivity
+Non-local statistical label fusion for multiatlas segmentation
+3D Regression Heat Map Analysis of Population Study Data
+Mutual-informationbased registration of medical images: A survey
+Computing semantic relatedness using wikipediabased explicit semantic analysis
+Multiatlas segmentation with joint label fusion
+Multi-atlas-based segmentation with local decision fusion〞Application to cardiac and aortic segmentation in CT scans
+Multi-atlas labeling with population-specific template and non-local patchbased label fusion
+MR-based automatic delineation of volumes of interest in human brain PET images using probability maps
+Glyph-Based Comparative Visualization for Diffusion Tensor Fields
+Fully automatic left ventricle segmentation in cardiac cine MR images using registration and minimum surfaces
+Beyond Weber's Law: A Second Look at Ranking Visualizations of Correlation
+Evaluation of atlas selection strategies for atlas-based image segmentation with application to confocal microscopy images of bee brains
+Evaluation framework for algorithms segmenting short axis cardiac MRI
+Visualization and Analysis of Rotating Stall for Transonic Jet Engine Simulation
+Comparison of interstudy reproducibility of cardiovascular magnetic resonance with two-dimensional echocardiography in normal subjects and in patients with heart failure or left ventricular hypertrophy
+Cardiac MRI assessment of right ventricular function in acquired heart disease: Factors of variability
+Mix&amp;Match: a construction kit for visualization
+Temporal continuity of levels of detail in Delaunay triangulated terrain
+Automatic construction of multiple-object three-dimensional statistical shape models: Application to cardiac modeling
+Automatic anatomical brain MRI segmentation combining label propagation and decision fusion
+Case Study: Mantle convection visualization on the Cray T3D
+Volume microscopy of biological specimens based on non-confocal imaging techniques
+Adaptive local multiatlas segmentation: Application to the heart and the caudate nucleus
+A supervised patchbased approach for human brain labeling
+Tile-based Level of Detail for the Parallel Age 
+Unified segmentation,§ NeuroImage,2005
+Volume visualization comes of age: the state of the art in technology and application
+All-at-once optimization for coupled matrix and tensor factorizations.
+Piecewise C<sup>1</sup> continuous surface reconstruction of noisy point clouds via local implicit quadric regression
+Virtual Workbench-a non-immersive virtual environment for visualizing and interacting with 3D objects for scientific visualization
+Case study. Visualising cyberspace: information visualisation in the Harmony Internet browser
+Radical Change Accidentally: The Emergence and Amplification of Small Change
+Analyst&#39;s workspace: Protecting vastopolis
+BM3D: motion estimation in time dependent volume data
+Text visualization browser: A visual survey of text visualization techniques.
+Seesoft 每 a tool for visualizing line oriented software statistics
+Case study. Narcissus: visualising information
+eSeeTrack&amp;#8212;Visualizing Sequential fixation Patterns
+Optimizing triangulations by curvature equalization
+How We Draw Texts: A Review of Approaches to Text Visualization and Exploration
+Document Visualization: An Overview of Current Research
+Co-authorship networks and research impact: A social capital perspective.
+Attractive Flicker: Guiding Attention in Dynamic Narrative Visualizations
+Visualization of high resolution, three-dimensional, nonlinear finite element analyses
+Weak Ties: Subtle Role of Information Diffusion in Online Social Networks
+The Spread of Behavior in an Online Social Network Experiment
+Visual analytics: how much visualization and how much analytics?
+The Search-Transfer Problem: The Role of Weak Ties in Sharing Knowledge across Organization Subunits
+JointViewer &#8212; An Interactive System for Exploring Orthopedic Data
+Visualization in anthropology: reconstruction of human fossils from multiple pieces
+The impact of name ambiguity on properties of coauthorship networks.
+Structure and tie strengths in mobile communication networks
+Simple algorithms for network visualization: A tutorial.
+Structural Holes: The Social Structure of Competition.
+Structural Holes and Good Ideas
+In Situ Eddy Analysis in a High-Resolution Ocean Climate Model
+Multi-Scale Banking to 45?
+Social resources and occupational status attainment
+Social Dilemmas in an Online Social Network: The Structure and Evolution of Cooperation
+Multivariate data glyphs: Principles and practice.
+Maxwell＊s guide to authority work.
+Networks of strong ties
+Remote visualization: challenges and opportunities
+Network Effects and Personal Influences: The Diffusion of an Online Social Network
+Major information visualization  authors, papers and topics in the ACM library
+Measuring tie-strength
+Out-of-core isosurface extraction of time-varying fields over irregular grids
+Estimation of sparse jacobian matrices and graph coloring blems.
+Information propagation in online social networks: a tie-strength perspective
+Data matching: concepts and techniques for record linkage, entity resolution, and duplicate detection.
+Identifying User Behavior in Online Social Networks
+Form and structure of newsgroups giving social support: A a network approach
+Exploring the Distribution of Local Neighborhood Structures in Large Networks
+Determining Influential Users in Internet Social Networks
+All Friends are not Equal: Using Weights in Social Graphs to Improve Search
+Author name disambiguation for collaboration network analysis and visualization.
+Alexa Internet.
+Visualizing the tracking and diving behavior of marine mammals: a case study
+Interactive visualization of fluid dynamics simulations in locally refined cartesian grids
+A survey on multivariate data visualization.
+Case study: wildfire visualization
+Interstitial and Interlayer Ion Diffusion Geometry Extraction in Graphitic Nanosphere Battery Materials
+NameClarifier: A Visual Analytics System for Author Name Disambiguation
+Multiresolution feature extraction for unstructured meshes
+Association Analysis for Visual Exploration of Multivariate Scientific Data Sets
+Cofi rank - maximum margin matrix factorization for collaborative ranking.
+Fast approximation of betweenness centrality through sampling.
+Orientation-Enhanced Parallel Coordinate Plots
+Betweenness centrality每incremental and faster.
+PhenoBlocks: Phenotype Comparison Visualizations
+Visualizing Temporal Patterns in Large Multivariate Data using Textual Pattern Matching
+Reconstruction and Visualization of Coordinated 3D Cell Migration Based on Optical Flow
+University of British Columbia &#x00026; Simon Fraser University - The Bricolage
+Visualization-by-Sketching: An Artist&#x0027;s Interface for Creating Multivariate Time-Varying Data Visualizations
+Real virtual environment applications-now
+Guidelines for Effective Usage of Text Highlighting Techniques
+with links to our various study materials and optimal compression solution corpus: https://dgmlposterview.codeplex. com/wikipage?title=Study
+project home page on codeplex: https:// dgmlposterview.codeplex.com
+Visualizing n-dimensional implications of two-dimensional design decisions
+CiteVis: Exploring Conference Paper Citation Data Visually
+Visualizing Multiple Variables Across Scale and Geography
+Modularity and community structure in networks
+The User Puzzle---Explaining the Interaction with Visual Analytics Systems
+Eigenfactor: ranking and mapping scientific knowledge
+Layout with circular and other non-linear constraints using procrustes projection
+Json.NET home page http://json.codeplex.com
+An integrated visualization on network events VAST 2011 mini challenge #2 award: &#x201C;Outstanding integrated overview display&#x201D;
+Lark: Coordinating colocated collaboration with information visualization
+IronPython home page http://ironpython.net
+Drawing graphs using modular decomposition
+An index to quantify an individual＊s scientific research output
+An On2 divide-and-conquer algorithm for the prime tree decomposition of two-structures and modular decomposition of graphs
+Visualization for nonlinear engineering FEM analysis in manufacturing
+Towards a texture naming system: Identifying relevant dimensions of texture
+Surface Rendering Versus Volume Rendering In Medical Imaging: Techniques And Applications
+Research report. DataSpace: 3-D visualizations of large databases
+Visualization and recommendation of large image collections toward effective sensemaking
+Understanding belief propagation and its generalizations
+The network paradigm applied to criminal organisations.
+The anatomy of a large-scale hypertextual Web search engine* 1.
+Real-Time Molecular Visualization Supporting Diffuse Interreflections and Ambient Occlusion
+Sensemaker: an information-exploration interface supporting the contextual evolution of a user＊s interests.
+New Age Navigation.
+Concepts, kinds, and cognitive development.
+An overview of sense-making research: concepts, methods and results to date.
+Interactive terrain rendering and volume visualization on the Princeton Engine
+Vol-a-Tile &#8212; A Tool for Interactive Exploration of Large Volumetric Data on Scalable Tiled Displays
+Ad hoc categories.
+A spreading activation theory of memory.
+Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data
+Multipole-Based Force Approximation Revisited 每 A Simple but Fast Implementation Using a Dynamized Enclosing-Circle-Enhanced k-d-Tree
+Vismate: Interactive Visual Analysis of Station-Based Observatiion Data on Climate Changes
+Visiting the G&#x0F6;del Universe
+DELTA's Virtual Physics Laboratory: a comprehensive learning platform on physics and astronomy
+Visualisation tools for semiconductor modelling software
+Impact of Environment and Social Gradient on Leptospira Infection in Urban Slums
+Unique in the crowd: The privacy bounds of human mobility.
+Specification and estimation of spatial autoregressive models with autoregressive and heteroskedastic disturbances.
+Image graphs-a novel approach to visual data exploration
+Social influence: Compliance and conformity
+Multiscale mobility networks and the spatial spreading of infectious diseases.
+Location 3: How users share and respond to location-based data on social networking sites.
+Techniques for managing very large scientific databases
+Eigenbehaviors: Identifying structure in routine.
+Bus passenger origin-destination estimation and related analyses using automated data collection systems.
+A statistical theory of spatial distribution models.
+A sparse-group lasso.
+RTVR-a flexible Java library for interactive volume rendering
+User-centric viewpoint computation for haptic exploration and manipulation
+Constructing stream surfaces in steady 3D vector fields
+ColorBrewer. Version2013
+Visualization Publication Dataset. Dataset: http://vispubdata.org/ .2015
+Case study: efficient visualization of physical and structural properties in crash-worthiness simulations
+Visualizing the behaviour of higher dimensional dynamical systems
+Pearls found on the way to the ideal interface for scanned probe microscopes
+PedVis: A Structured; Space-Efficient Technique for Pedigree Visualization
+A virtual workspace for hybrid multidimensional scaling algorithms
+WEAVE: a system for visually linking 3-D and statistical visualizations applied to cardiac simulation and measurement data
+CAST: Effective and Efficient User Interaction for Context-Aware Selection in 3D Particle Clouds
+Automatic alignment of high-resolution multi-projector displays using an uncalibrated camera
+A data model for scientific visualization with provisions for regular and irregular grids
+Interactive data analysis with nSpace2&#x00AE;
+The quantum Coulomb three-body problem - Visualization of simulation results and numerical methods
+Visual Mementos: Reflecting Memories with Personal Data
+Visualizing High-Dimensional Data: Advances in the Past Decade
+A fast ray tracing casting algorithm using adaptive isotriangular subdivision
+Unsteady phenomena, hypersonic flows and co-operative flow visualization in aerospace research
+Word representations: A simple and general method for semisupervised learning
+The Penn Discourse Treebank 2.0 annotation manual.
+Discourse structure and language technology
+Comparative evaluation of argument extraction algorithms in discourse relation parsing.
+Distance-field based skeletons for virtual navigation
+In Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL2014
+Softcuts: A soft edge smoothness prior for color image superresolution
+Turning information visualization innovations into commercial products: lessons to guide the next success
+Combining Hierarchy and Energy for Drawing Directed Graphs
+Part-based RCNNs for fine-grained category detection
+On single image scale-up using sparse-representations
+Propositional n-traces: visualizing a problem in philosophical logic
+Multiscale structural similarity for image quality assessment
+Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes
+Rendering surface-particles
+Visualizations everywhere: A Multiplatform Infrastructure for Linked Visualizations
+Visualization of free form volumes
+Occlusion-free Blood Flow Animation with Wall Thickness Visualization
+VarifocalReader -- In-Depth Visual Analysis of Large Text Documents
+Gradient-based learning applied to document recognition
+Object-oriented, dataflow visualization system-a paradigm shift?
+Why we twitter: understanding microblogging usage and communities
+UCINet for Windows: Software for Social Network Analysis
+Twitter Reaches 44.5 Million People Worldwide
+Twitter API Documentation
+To Dwell Among Friends.
+The community question: the intimate networks of East Yorkers.
+The Death of Distance: How the Communications Revolution is Changing Our Lives.
+Structural predictors of tie formation in Twitter: transitivityandmutuality
+Interactive visualization of 3D-vector fields using illuminated stream lines
+Spatial modeling of social networks
+Pajek 每 Analysis and Visualization of Large Networks
+Reciprocal attention and norm of reciprocity in blogging networks.
+QAP partialling as a test of spuriousness.
+Power and position in the world city system.
+Personal networks and the personal communication system: using multiple media to connect.
+Cocitation count vs correlation for influence network visualization
+Permutation models for relational data.
+An algorithm for designing overcomplete dictionaries for sparse representation
+A knowledge taskbased framework for design and evaluation of information visualizations
+Order in diversity: community without propinquity
+Brushing scatterplots, Technometrics,1987
+Networks as personal communities
+Networked: The New Social Operating System.
+Methodological nationalism and beyond: nationstate building, migration and the social sciences.
+Linguistic distance as a determinant of bilateral trade.
+How telephone networks connect social networks.
+Tree-maps: a space-filling approach to the visualization of hierarchical information structures
+A Survey of Text Summarization Extractive Techniques
+How much did distance matter before the Internet?
+Geographic routing in social networks.
+Interactive visualization of ocean circulation models
+From podes to antipodes: positionalities and global airline geographies.
+Exploring the Use of Twitter Around the World
+State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams
+Does distance still matter in the age of the Internet?
+Connected lives: the project
+Conceptualizing and mapping the structure of the world systems city system.
+An appraisal of the use of airline data in assessing the world city network: a research note on data.
+A roster of world cities.
+Visualization Analysis and Design: Abstractions, Principles, and Methods
+Fast; Memory-Efficient Cell Location in Unstructured Grids for Visualization
+Typologies and Taxonomies: An Introduction to Classification.
+TreeJuxtaposer: scalable tree comparison using focus + context with guaranteed visibility.
+Theories for understanding information visualization.
+The visual design and control of trellis display.
+Temporal MDS Plots for Analysis of Multivariate Data
+The user puzzle: Explaining the interaction with visual analytics systems.
+Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles
+MobilityGraphs: Visual Analysis of Mass Mobility Dynamics via Spatio-Temporal Graphs and Clustering
+The Play Theory of Mass Communication.
+The Humane Interface: New Directions for Designing Interactive Systems.
+The Grammar of Graphics.
+Case study: using spatial access methods to support the visualization of environmental data
+Task taxonomy for graph visualization categories and subject descriptors.
+Mathematical Vkualization: Standing at the Crossroads
+Starting simple: Adding value to static visualization through simple interaction.
+Making sense of graphs: Critical factors influencing comprehension and instructional implications.
+Interactive high-dimensional data visualization.
+Rotation Invariant Vortices for Flow Visualization
+A Simple Approach for Boundary Improvement of Euler Diagrams
+Interactive dynamics for visual analysis: A taxonomy of tools that support the fluent and flexible use of visualizations.
+Isosurface Extraction and View-Dependent filtering from Time-Varying fields Using Persistent Time-Octree (PTOT)
+Information Visualization: Design for Interaction.
+Illuminating the Path: The Research and Development Agenda for Visual Analytics.
+Producing high-quality visualizations of large-scale simulation
+Exploratory Data Analysis.
+Developing an extended task framework for exploratory data analysis along the structure of time.
+Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work.
+Cartographic interaction primitives: Framework and synthesis.
+An empirically-derived taxonomy of cartographic interaction primitives.
+VisJockey: Enriching data stories through orchestrated visualization
+A task-analytic approach to the automated design of graphic presentations.
+Geometric verification of swirling features in flow fields
+Fundamentals of Graphics, chapter 27,2009
+The Paradox of Choice: Why More Is Less. Ecco
+Case study: an integrated approach for steering, visualization, and analysis of atmospheric simulations
+Selection of K in K-means clustering
+The Role of Uncertainty, Awareness, and Trust in Visual Analytics
+For their eyes only: Police misconduct hidden from public by secrecy law, weak oversight
+The "Parallel Vectors" operator-a vector field visualization primitive
+Two-stage framework for a topology-based projection and visualization of classified document collections
+Why you only need to test with 5 users
+Harnessing the web information ecosystem with wiki-based visualization dashboards
+Visualization of oil reservoirs over a large range of scales as a catalyst for multi-disciplinary integration
+Using visualization in the archaeological excavations of a pre-Inca temple in Peru
+A system for three-dimensional acoustic `visualization&#39; in a virtual environment workstation
+Own a gun? Tell us why. The Daily Beast
+Span filtering: an optimization scheme for volume visualization of large finite element models
+Hierarchical clustering and tagging of mostly disconnected data
+Practical Guidance for Dimensionality Reduction: User Guidance, Costly Distances, and Document Data
+Technology-assisted review in ediscovery can be more effective and more efficient than exhaustive manual review
+General purpose computer-assisted clustering and conceptualization
+Case study: Visualization of laser confocal microscopy datasets
+A workplace study of the adoption of information visualization systems
+Verbal reports as data
+Unbundling the structure of inertia: Resource versus routine rigidity.
+History consideration in reconstructing polyhedral surfaces from parallel slices
+Threat-rigidity effects in organizational behavior: A multilevel analysis.
+A Survey of Traf?c Data Visualization
+Thinking, feeling and deciding: the influence of emotions on the decision making and performance of traders.
+Visual Classi?er Training for Text Document Retrieval
+ProDV &#x2014; A case study in delivering visual analytics
+Which comes first, usability or utility?
+The psychophysiology of real-time financial risk processing.
+The investor fear gauge.
+The Sources and Consequences of Embeddedness for the Economic Performance of Organizations: The Network Effect.
+Testing for serial correlation in least squares regression.
+Taking stock of networks and organizations: A multilevel perspective
+System breakdown: The role of mental models and transactive memory in the relationship between acute stress and team performance.
+Variety seeking behavior: An interdisciplinary review.
+Synchronicity, instant messaging, and performance among financial traders.
+NICAR 2015 slides, links & tutorials,undefined
+The theory of stochastic preference and brand switching.
+Visualizing Tensor Normal Distributions at Multiple Levels of Detail
+The temporal and focal dynamics of volitional reconsumption: A phenomenological investigation of repeated hedonic experiences.
+Social capital in the creation of human capital.
+Should I stay or should I go? How the human brain manages the trade-off between exploitation and exploration.
+Social and Economic Networks,
+Visual Analytics for Development and Evaluation of Order Selection Criteria for Autoregressive Processes
+Serial correlation and the fixed effects model.
+Patterns of hedonic consumption over time.
+Responder communication networks in the World Trade Center disaster: Implications for modeling of communication within emergency settings.
+On a class of skew distribution functions.
+Quantifying Trading Behavior in Financial Markets Using Google Trends
+History repeats itself: repeat queries in Yahoo＊s logs.
+Organizational Network Research.
+Evolution of networks with aging of sites.
+Normal accidents: Living with high risk technologies.
+Effects of repeat consumption on pleasantness, preference and intake.
+Networks: An Introduction,
+Choosing less-preferred experiences for the sake of variety.
+Networks, Crowds, and Markets,
+Brand loyalty vs. repeat purchasing behavior.
+Neither market nor hierarchy
+An investigation into the order of the brand choice process.
+An Investigation of Brand Choice Processes.
+Information exchange and the robustness of organizational networks.
+A stochastic evolutionary model exhibiting power-law behaviour with an exponential cutoff. Physica A: Statistical Mechanisms and Its Applications,
+Infectious diseases, contamination rumors and ethnic violence: Regimental mutinies in the Bengal Native Army in 1857 India
+In the Mood for a Loan: The Causal Effect of Sentiment on Credit Origination
+Identities in flux: Cognitive network activation in times of change
+InfoVis 2004 Contest: WilmaScope Graph Visualisation
+Graph Mining: Laws, Tools, and Case Studies.
+behaviorism: a framework for dynamic data visualization
+Giving content to investor sentiment: The role of media in the stock market.
+Foraging under Conditions of Short-term Exploitative Competition: The Case of Stock Traders.
+Empirical analysis of an evolving social network.
+Understanding Machine Learning: From Theory to Algorithms.
+Efficient Capital Markets: A Review of Theory and Empirical Work
+Theory of classification : A survey of some recent advances
+Economic action, social structure, and embeddedness.
+The Nature of Statistical Learning Theory. Statistics for engineering and information science.
+SNAP Datasets: Stanford large network dataset collection.
+Communication networks from the Enron email corpus ※it＊s always about the people. Enron is no different§.
+Asymmetric disassembly and robustness in declining networks.
+Relative (p, 汍)-approximations in geometry.
+Neural Network Learning - Theoretical Foundations.
+Computational social science, Science2009
+Effectiveness of Structured Textures on Dynamically Changing Terrain-like Surfaces
+Off the Radar: Comparative Evaluation of Radial Visualization Solutions for Composite Indicators
+Convergence of stochastic processes.
+An inequality for uniform deviations of sample averages from their means.
+Interactive poster: Visual analytic techniques for CO<inf>2</inf> emissions and concentrations in the United States
+Vortex identification-applications in aerodynamics: a case study
+A methodology for scientific data visualisation: choosing representations based on a natural scene paradigm
+Visualization as Seen Through its Research Paper Keywords
+Smart super views---A knowledge-assisted interface for medical visualization
+Rapid exploration of curvilinear grids using direct volume rendering (Extended Abstract)
+Markerless View-Independent Registration of Multiple Distorted Projectors on Extruded Surfaces Using an Uncalibrated Camera
+Whole field modelling. Effective real-time and post-survey visualization of underwater pipelines
+Supporting Iterative Cohort Construction with Visual Temporal Queries
+LensBar-visualization for browsing and filtering large lists of data
+Suggested Interactivity: Seeking Perceived Affordances for Information Visualization
+AnimoAminoMiner: Exploration of Protein Tunnels and their Properties in Molecular Dynamics
+Graph Drawing Aesthetics〞Created by Users, Not Algorithms
+Assisted navigation for large information spaces
+Interactive Visual Discovering of Movement Patterns from Sparsely Sampled Geo-tagged Social Media Data
+Cell phone mini challenge award: Social network accuracy&#x2014; exploring temporal communication in mobile call graphs
+Characterizing users&#x2019; visual analytic activity for insight provenance
+Out-of-core rendering of massive geometric environments
+Dunnart: A Constraint-Based Network Diagram Authoring Tool
+TelCoVis: Visual Exploration of Co-occurrence in Urban Human Mobility Based on Telco Data
+IEEE Visualization 2003 (IEEE Cat. No.03CH37496)
+Constrained Graph Layout
+Color vs. black-and-white in visualization
+Applying 3D visualization techniques to finite element analysis
+The generalized detail in-context problem
+Visibility-driven depth determination of surface patches in direct volume rendering.
+The new statistics: Why and how.
+The Aquarius project: The subhalos of galactic halos.
+Volume tracking using higher dimensional isosurfacing
+Simulations of the formation, evolution and clustering of galaxies and quasars.
+Selection: 524,288 ways to say ※This is interesting§.
+Analyzing the public discourse on works of fiction 每 Detection and visualization of emotion in online coverage about HBO＊s Game of Thrones
+WEBPATH-a three dimensional Web history
+Position paper: Touch interaction in scientific visualization.
+Force-Directed Graph Drawing Using Social Gravity and Scaling
+Haptics-assisted 3D lasso drawing for tracts-of-interest selection in DTI visualization.
+HCI statistics without p-values.
+Gestures vs. postures: ＆gestural＊ touch interaction in 3D environments.
+GPSel: A gestural perceptualbased path selection technique.
+Force Brushes: Progressive datadriven haptic selection and filtering for multi-variate flow visualizations.
+Exploring individual differences in raybased selection: Strategies and traits.
+Evaluation of pointing techniques for ray casting selection in virtual environments.
+Design and evaluation of 3D multiple object selection techniques.
+Extracting, Tracking, and Visualizing Magnetic Flux Vortices in 3D Complex-Valued Superconductor Simulation Data
+DATAPLOT: A graphical display package for bacterial morphometry and fluorimetry data.
+Confidence intervals rather than p values: Estimation rather than hypothesis testing.
+Comparison of density estimation methods for astronomical datasets.
+BootES: An R package for bootstrap confidence intervals on effect sizes.
+Bad stats are miscommunicated stats
+Arc Length-Based Aspect Ratio Selection
+3D selection strategies for head tracked and non-head tracked operation of spatially immersive displays.
+A state transition approach to understanding users&#39; interactions
+Visualizing Large Hierarchical Information Structures in Digital Libraries.
+Identifying Temporal Patterns and Key Players in Document Collections
+Information Slices: Visualising and Exploring Large Hierarchies using Cascading, Semi-Circular Discs.
+Gerneralized Fisheye Views.
+Strategy and issue frames in election campaign coverage: A social cognitive account of framing effects
+Generalized Association Plots for Information Visualization: The Applications of the Convergence of Iteratively Formed Correlation Matrices.
+The genealogical structure of japanese firms: Parent-subsidiary relationships.
+Reading machines: Toward an algorithmic criticism
+Casecluster: Visualizing Case References between Supreme Court Cases
+The Church of Jesus Christ of Latter-day Saints.
+The hermeneutics of screwing around; or what you do with a million books
+An improved algorithm for the metro-line crossing minimization problem
+Deformance and interpretation
+Interactive fan charts: A space-saving technique for genealogical graph exploration.
+Genealogy in the ＊information age＊: History＊s new frontier?
+Ambiguity-free edgebundling for interactive graph visualization
+DOITrees revisited: Scalable, spaceconstrained visualization of hierarchical data.
+Lucene in action
+A philosophy of computer art
+A visual interface for multivariate temporal data: Finding patterns of events over time.
+Generalized fisheye views
+Quantifying the evolutionary dynamics of language
+Immersive design of DMA molecules with a tangible interface
+Sounding the surfaces: Computers, context, and poetic consequence
+Seven guiding scenarios for information visualization evaluation
+Interactive graph cuts for optimal boundary & region segmentation of objects in nd images
+Tampering with the text to increase awareness of poetry＊s art.(theory and practice with a hispanic perspective
+Synesthetic art〞an imaginary number
+Print is flat, code is deep: The importance of media-specific analysis
+Translating media: Why we should rethink textuality
+Visualization, optimization, business strategy: a case study
+Processing. org. Processing. org,undefined
+Fast rotation of volume data on parallel architectures
+Mind your ps and bs: the digital humanities and interpretation
+A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights
+Visualisation for functional design
+Not sound
+TOPIC ISLANDS TM - a wavelet-based text visualization system
+Gist icons: Seeing meaning in large bodies of literature
+Docuburst: Document content visualization using language structure
+Turbulence and temporality: (re)visualizing poetic time. things my computer taught me about poems
+Slippage, spillage, pillage, bliss: Close reading, uncertainty, and machines
+Mining Graphs for Understanding Time-Varying Volumetric Data
+Distant listening or playing visualizations pleasantly with the eyes and ears
+A Linguistic Approach to Categorical Color Assignment for Data Visualization
+Wicked problems in design thinking
+Sound as subject: Augusto de campos＊s poetamenos
+Why social networks are different from other types of networks
+Visualizing uncertainty in lattices to support decision-making.
+Interactive exploration of extra- and interacranial blood vessels
+Visual analysis of large graphs: Stateof-the-art and future research challenges.
+Uncovering the overlapping community structure of complex networks in nature and society.
+Novel interaction techniques for neurosurgical planning and stereotactic navigation
+The Stanford GraphBase: A Platform for Combinatorial Computing.
+Isosurface Visualization of Data with Nonparametric Models for Uncertainty
+The Development of Social Network Analysis: A Study in the Sociology of Science.
+Multi-circular layout of micro/macro graphs.
+Modularity measure of networks with overlapping communities.
+Link communities reveal multiscale complexity in networks.
+Identification of overlapping community structure in complex networks using fuzzy-means clustering.
+Human Symmetry Perception and Its Computational Analysis.
+Highresolution measurements of face-to-face contact patterns in a primary school.
+Graph drawing by forcedirected placement.
+Generating customized layouts.
+Fuzzy overlapping communities in networks.
+Foundations of Cyclopean Perception.
+Detecting functional modules in the yeast protein每 protein interaction network.
+Detect overlapping and hierarchical community structure in networks.
+Effective Visualization of Temporal Ensembles
+Are there capacity limitations in symmetry perception?
+Fauxvea: Crowdsourcing Gaze Location Estimates for Visualization Analysis Tasks
+A theory of preattentive texture discrimination based on firstorder statistics of textons.
+Mental Models; Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective
+How visualization applications drive tool selection: one product can't do it all
+Visualization of second order tensor fields and matrix data
+The design of browsing and berrypicking techniques for the online search interface.
+Synthesizing Research: A Guide for Literature Reviews
+Geospatial metadata querying and visualization on the WWW using Java<sup>TM</sup> applets
+Research student&apos;s early experiences of the dissertation literature review&apos;
+Information seeking, gathering and review: Journalism as a case study for the design of search and authoring systems
+Hierarchy Theory: A Vision, Vocabulary and Epistemology.
+From the Mind＊s Eye of the User: the Sense-Making Qualitative-Quantitative Methodology
+Onlineupdating regularized kernel matrix factorization models for large-scale recommender systems.
+Multiobject tracking with representations of the symmetric group.
+Probing Projections: Interaction Techniques for Interpreting Arrangements and Errors of Dimensionality Reductions
+Modeling user rating profiles for collaborative filtering.
+Source of Structure in Sensemaking. ACM CHI＊05,undefined
+Incremental singular value decomposition algorithms for highly scalable recommender systems.
+Using mostly native data to correct errors in learners＊ writing: A meta-classifier approach.
+Visual analysis of contagion in networks
+The IllinoisColumbia system in the CoNLL-2014 shared task.
+Efficient inference for distributions on permutations.
+Spatialization Methods: A Cartographic Research Agenda for Non-geographic Information Visualization
+The AMU system in the CoNLL-2014 shared task: Grammatical error correction by dataintensive and feature-rich statistical machine translation.
+RACAI GEC 每 a hybrid approach to grammatical error correction.
+Dynamic Network Visualization with Extended Massive Sequence Views
+Native judgments of non-native usage: Experiments in preposition error detection.
+Generating typed dependency parses from phrase structure parses.
+Automated Grammatical Error Detection for Language Learners.
+Sketching Designs Using the Five Design-Sheet Methodology
+A coefficient of agreement for nominal scales
+A beamsearch decoder for grammatical error correction.
+Natural Language Processing with Python. O＊Reilly Media.2009
+Visual enterprise network analytics -- visualizing organizational change
+The State of the Art in Visualizing Group Structures in Graphs
+Inviwo ??? An extensible, multi-purpose visualization framework
+Visualizing the Evolution of Communities in Dynamic Graphs
+DataTone: Managing Ambiguity in Natural Language  Interfaces for Data Visualization
+Spatial Reasoning and Data Displays
+VisOHC: Designing Visual Analytics for Online Health Communities
+SemaTime -- Timeline Visualization of Time-Dependent Relations and Semantics
+How do you connect moving dots? Insights from user studies on dynamic network visualizations
+Considerations in Dynamic Graph Drawing: A Survey
+The ``mental map'' versus ``static aesthetic'' compromise in dynamic graphs: a user study
+PhylloTrees: Harnessing Nature&#146;s Phyllotactic Patterns for Tree Layout
+the Citation Typing Ontology, and its use for annotation of reference lists and visualization of citation networks.
+Representation and use of chemistry in the global electronic age
+Information retrieval failure analysis: Visual analytics as a support for interactive &#x201C;what-if&#x201D; investigation
+Open peer review and argumentation: loosening the paper chains on journals.
+Virtual Smoke: an interactive 3D flow visualization technique
+Controlling presentation speed, labels, and tooltips in interactive dynamic graphs
+Modeling scientific research articles 每 shifting perspectives and persistent issues.
+Impact factors: use and abuse
+How citation distortions create unfounded authority: analysis of a citation network.
+Focused Animation of Dynamic Compound Digraphs
+On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges
+Adventures in semantic publishing: exemplar semantic enhancement of a research article.
+How Important Is the ``Mental Map''? -- An Empirical Investigation of a Dynamic Graph Layout Algorithm Graph Drawing
+Word learning as Bayesian inference.
+Color, change, and control of quantitative data display
+The importance of shape in early lexical learning.
+Probabilistic machine learning and artificial intelligence.
+Perception of dynamic information in static handwritten forms.
+Results in mathematics and music: Visualization of roughness in musical consonance
+Object name learning provides on-the-job training for attention.
+code\_swarm: A design study in organic software visualization
+How Children Learn to Write Words
+Evaluating Amazon＊s Mechanical Turk as a tool for experimental behavioral research
+Dropout: A simple way to prevent neural networks from overfitting.
+Incremental layout in DynaDAG
+The Readability of Path-Preserving Clustering of Graphs.
+Cognitive Psychology
+Putting recommendations on the map - visualizing clusters and relations.
+Categorization in 3- and 4-month-old infants: An advantage of words over tones.
+Measuring Effectiveness of Graph Visualizations: A Cognitive Load Perspective.
+Dynamic Network Visualisation
+A stochastic grammar of images
+Probabilistic Quantitative Precipitation Forecasts Based on Reforecast Analogs
+How to Display Group Information on Node每Link Diagrams: an Evaluation.
+"The Grammar of Action§: Sequence and syntax in childen＊s copying.
+Intell. Res.2000
+Visualizing Dynamic Brain Networks Using an Animated Dual-Representation
+Neural Inf. Process. Syst.2015
+What is complexity science? It is really order-creation science.
+Temporal and relational data representation by graph morphing
+in Proceedings of the 37th Annual Conference of the Cognitive Science Society, D. C. Noelle et al., Eds.,2015
+Vicious circles in organizations.
+Four-dimensional views of 3D scalar fields
+Understanding radical organizational change: Bringing together the old and the new institutionalism.
+ContexTour: Contextual Contour Visual Analysis on Dynamic Multi-Relational Clustering
+in Proceedings of the International Conference on Machine Learning (ICML),2015
+The social psychology of organizing.
+The second cybernetics: Deviation amplifying mutual causal processes.
+The science of complexity: An alternative perspective for strategic change processes.
+The role of conversations in producing intentional change in organizations.
+The pace, sequence, and linearity of radical change.
+The origins of order.
+The mechanics of vacillation.
+The fractal geometry of nature.
+Tales of the field.
+Symbolism and strategic change in academia: The dynamics of sensemaking and influence.
+Surprise, surprise, surprise! A complexity science view of the unexpected.
+Strategies for theorizing from process data.
+Stealth, secrecy and subversion: The language of change.
+Self-organized transitions: A pattern amid the chaos of transformative change.
+Reduction of visual complexity in dynamic graphs
+Scaling the tower of Babel: Relational differences between identity, image, and culture in organizations
+Evaluating a visualisation of image similarity as a tool for image browsing
+Rules and complex systems.
+Visual Techniques to Support Exploratory Analysis of Temporal Graph Data
+Revolutionary change theories: A multilevel exploration of the punctuated equilibrium paradigm.
+Retrospective reports in organizational research: A reexamination of recent evidence.
+Interactive Visualization for Singular Fibers of Functions f : R3 -> R2
+Problems and paradoxes in a model of punctuated organizational change.
+The Design Space of Temporal Graph Visualisation
+People and organizational culture: A profile comparison approach to assessing person-organization fit.
+Interactive investigation of fluid mechanics data sets
+Organizational transformation as punctuated equilibrium: An empirical test.
+Evaluation of Parallel Coordinates: Overview, Categorization and Guidelines for Future Research
+Organizational responses to complexity: The effect on organizational performance.
+Constructing and Visualizing Chemical Reaction Networks From Pi-Calculus Models
+Organizational identity, image and adaptive instability.
+Organizational identity
+Visualizing for Changes in Relationships between Historical Figures in Chronicles
+Organizational frame bending: Principles for managing reorientation.
+Organizational evolution: A metamorphosis model of convergence and reorientation.
+Organizational emergence: The origin and transformation of Branson, Missouri＊s musical theaters.
+Organizational configurations and performance: The role of statistical power in extant research.
+Organizational change and development.
+Order out of chaos: Man＊s new dialogue with nature.
+Bundled Visualization of Dynamic Graph and Trail Data
+Mind-set management: The heart of leadership.
+Visualizing a three dimensional hydrodynamic model
+Managing the unknowable.
+Managing the metaphors of change.
+Managerial and organizational communication in terms of the conduit metaphor.
+Logics of identity, contradiction, and attraction in change.
+Leading at the edge: How leaders influence complex systems.
+Leadership in complex organizations.
+Leadership and the new science.
+Keeping an eye on the mirror: Image and identity in organizational adaptation.
+Identity ambiguity and change in the wake of a corporate spin-off.
+Semi-immersive space mission design and visualization: case study of the "Terrestrial Planet Finder" mission
+Hidden order.
+Kinetic visualization: a technique for illustrating 3D shape and structure
+Heeding the call〞In wake of personal tragedy, pastor shakes up downtown church, transforms lives
+Fuzzy set social science
+A Survey of Multi-faceted Graph Visualization
+Decline in organizations: A literature integration and extensions.
+Tweetgeist: Can the Twitter Timeline Reveal the Structure of Broadcast Events?
+Configurations revisited.
+Configurations of organizational effectiveness and efficiency.
+Configurational approaches to organizational analysis.
+MC<sup>*</sup>: star functions for marching cubes
+Interactively Visualizing Dynamic Social Networks with DySoN
+Complexity theory and organization science.
+Visualizing large graphs with compound-fisheye views and treemaps.
+Complexity dynamics of nascent entrepreneurship.
+Complexity and management: Moving from fad to firm foundations.
+Complex organizations: A critical essay.
+Church＊s day center is under fire〞 With police calls in this area downtown way up, both sides seek a solution
+Churches prove there are ways to get past the racist past
+Fast filtering and animation of large dynamic networks
+The pathway tools cellular overview diagram and omics viewer.
+Chaos theory and organizations.
+The Optimal Linear Arrangement Problem: Algorithms and Approximation.
+Changing interpretive schemes and organizational restructuring: The example of a religious order.
+Case study research (3rd ed.)
+Building theories from case study research.
+Semiology of Graphics: Diagrams,Networks, Maps.
+Bose-Einstein condensation in complex networks.
+Flow Radar Glyphs&amp;#8212;Static Visualization of Unsteady Flow with Uncertainty
+Balancing and rebalancing in the creation and evolution or organizational control.
+Avoiding complexity catastrophe in coevolutionary pockets: Strategies for rugged landscapes.
+At home in the universe: The search for the laws of self-organization and complexity.
+Osprey: a network visualization system.
+Network visualization and analysis of gene expression data using BioLayout Express(3D).
+Multilevel visualization of clustered graphs.
+A hybrid model for drawing dynamic and evolving graphs
+Mapping change in large networks.
+IPSepCoLa: An incremental procedure for separation constraint layout of graphs.
+Heterogeneous networks on multiple levels.
+Group-in-a-box metalayouts for topological clusters and attribute-based groups: Space-efficient visualizations of network communities and their ties.
+GLO-STIX: Graphlevel operations for specifying techniques and interactive exploration.
+Drawing clusters and hierarchies.
+Graph Drawing in Motion II
+Introduction to algorithms.
+The Marey graph animation tool demo
+BiNA: a visual analytics tool for biological network data.
+graphael: A system for generalized force-directed layouts
+A compound graph layout algorithm for biological pathways.
+A strong-connectivity algorithm and its application in data flow analysis.
+Drawing: Algorithms for the Visualization of Graphs, 1st ed.1998
+Exploring temporal ego networks using small multiples and tree-ring layouts
+Simultaneous graph drawing: Layout algorithms and visualization schemes
+Analyzing the public discourse on works of ?ction 每 Detection and visualization of emotion in online coverage about HBO＊s Game of Thrones
+GraphAEL: Graph Animations with Evolving Layouts Graph Drawing
+Visualizing related metabolic pathways in two and a half dimensions.
+Visualizing graphs: A generalized view.
+GraphStream: A tool for bridging the gap between complex systems and dynamic graphs
+Visualizing Time: Designing Graphical Representations for Statistical Data.
+Visualization of passenger flows on metro.
+Graphs, They are Changing -- Dynamic Graph Drawing for a Sequence of Graphs
+The hundredth psalm to the tune of ※green sleeves§: Digital approaches to shakespeare＊s language of genre
+Visualization of attributed hierarchical structures in a spatio-temporal context.
+Visual unrolling of network evolution and the analysis of dynamic discourse.
+The RenderMan Interface version
+Visual analysis of one-to-many matched graphs.
+Smooth Subdivision Surfaces Based On Triangles
+Using MCL to extract clusters from networks.
+Recursively Generated BSpline Surfaces on Arbitrary Topology Meshes.
+Mallet: A machine learning for language toolkit
+Real-time rendering techniques with hardware tessellation.
+Macroanalysis: Digital methods and literary history
+A Visualization Technique for Large Temporal Social Network Datasets in Hyperbolic Space
+High-reproducibility and high-accuracy method for automated topic classification
+Hierarchical topic models and the nested chinese restaurant process
+Social Network Analysis: Methods and Applications.
+Quantitative measures of network complexity.
+Pointbased visualization for large hierarchies.
+Pixeloriented visualization of change in social networks.
+Overview with details for exploring geo-located graphs on maps
+Visual Traf?c Jam Analysis Based on Trajectory Data
+Colorbrewer in print: A catalog of color schemes for maps
+Multivariate Graph Drawing using Parallel Coordinate Visualisations.
+WordNet: An Electronic Lexical Database.
+Mapping local internet control.
+Dynamic featureadaptive subdivision.
+Interactive network exploration to derive insights: Filtering, clustering, grouping, and simplification.
+Behaviour of recursive division surfaces near extraordinary points.
+Integrating data from biological experiments into metabolic networks with the DBE information system.
+Approximating CatmullClark subdivision surfaces with bicubic patches.
+Information Visualization. Beyond the Horizon.
+Handbook of Graph Drawing and Visualization.
+Adaptive tessellation of subdivision surfaces with displacement mapping.
+Taylor series.
+Graph drawing techniques for geographic visualization
+Dynamic Graph Drawing
+Geographic Visualization.
+Exploring Geovisualization.
+A quantitative comparison of stress-minimization approaches for offline dynamic graph drawing
+Envisioning Information.
+Numerical Recipes: The Art of Scientific Computing.
+Edge bundling in information visualization.
+Make new friends but keep the old, recommending people on social networking sites.
+Drawing Graphs: Methods and Models.
+Dynamic Spectral Layout of Small Worlds
+Constructing and visualizing reaction networks from pi-calculus models.
+Solving the inverse problem of image zooming using self-examples.
+Comparing multilevel clustering methods on weighted graphs: The case of worldwide air passenger traffic 2000-2004.
+Cartography: Visualization of Spatial Data, 3rd ed.
+Patch based blind image super-resolution.
+Cross-domain recommender systems: A survey of the state of the art.
+Bipartite Graphs and their Applications.
+Nonlinear dimensionality reduction by locally linear embedding.
+Animation for visualization: Opportunities and drawbacks.
+Analyzing highdimensional multivariate network links with integrated anomaly detection, highlighting and exploration.
+Image superresolution via sparse representation.
+Image superresolution using gradient profile priors.
+Visualizing Group Structures in Graphs: A Survey
+ASKGraphView: A large scale graph visualization system.
+Image hallucinatoin with primal sketch priors.
+Imag and video upscaling from local self-examples.
+Visualizing Internet Evolution on the Autonomous Systems Level
+An effective, low-cost measure of semantic relatedness obtained from wikipedia links.
+Exploiting the sparse derivative prior for super-resolution and image demosaicing.
+Examplebased super-resolution.
+A graph-based overview visualization for data landscapes.
+Automatic parameter selection for denoising algoirthms using a non-reference measure of image content.
+A non local algorithm for image denoising.
+A classification of cartographic animations: Towards a tool for the design of dynamic maps in a GIS environment.
+The State of the Art in Visualizing Dynamic Graphs
+editors.Handbook of Mathematical Functions.
+Using maximum entropy for text classification
+Theory of probability.
+Dynamic Graph Drawing in Visone
+Recent progress on de Finetti＊s notions of exchangeability.
+Parametric empirical Bayes inference: Theory and applications
+Modeling annotated data.
+Maximum likelihood estimation of Dirichlet distributions
+A Review of Temporal Data Visualizations Based on Space-Time Cube Operations
+Making large-scale SVM learning practical
+Learning in Graphical Models.
+GraphDiaries: Animated Transitions and Temporal Navigation for Dynamic Networks
+Introduction to Modern Information Retrieval.
+Mapping the importance of the real world: The validity of connectivity analysis of patent citations networks.
+Can animation support the visualisation of dynamic graphs?
+Improving multi-class text classification with naive Bayes.
+Mapping evolutionary trajectories: Applications to the growth and transformation of medical knowledge.
+Temporal Multivariate Networks
+Expectation-propagation for the generative aspect model.
+Exchangeability and related topics
+Estimating a Dirichlet distribution.
+Finding and evaluating community structure in networks
+Caenorrhabditis genetic center bibliography.
+Fast unfolding of communities in large networks.
+Mental map preservation helps user orientation in dynamic graphs
+Bayesian methods for censored categorical data.
+Fast algorithm for detecting community structure in networks
+Bayesian data analysis.
+The ``Map" in the mental map: Experimental results in dynamic graph drawing
+Approximate Bayesian inference in conditionally independent hierarchical models (parametric empirical Bayes models)
+An experimental comparison of several clustering and initialization methods.Machine Learning,
+Connectivity in a citation network: The development of DNA theory.
+A variational Bayesian framework for graphical models.
+A probabilistic approach to semantic representation.
+Difference Map Readability for Dynamic Graphs
+Journal of the American Statistical Association,1983
+Improved Automatic Keyword Extraction Given More Linguistic Knowledge
+Visual analysis of history of World Cup: A dynamic network with dynamic hierarchy and geographic clustering
+A Modular Degree-of-Interest Specification for the Visual Analysis of Large Dynamic Networks
+Event-based analysis of people＊s activities and behavior using flickr and panoramio geotagged photo collections
+Twitter news classification using SVM
+WITCH: A New Approach to Web Spam Detection.
+Spam, damn spam, and statistics 每 Using statistical analysis to locate spam web pages.
+Know your neighbors: Web spam detection using the web topology.
+Nanocubes for realtime exploration of spatiotemporal datasets
+Beautiful Evidence. Graphics Press, 1st edition
+Data Mining: Practical Machine Learning Tools and Techniques.
+Content-based Web Spam Detection.
+Semantics + filtering + search= twitcident. exploring information in social web streams
+Challenges in running a commercial search engine.
+Document length normalization. Information Processing and Management,1996
+Using sifting of k-layer straightline crossing minimization
+Upper bounds on the number of hidden nodes in Sugiyama＊s algorithm
+Tulip 每 A Huge Graph Visualization Framework
+Tarjan: Self-Adjusting Binary Search Trees
+Layered drawings of digraphs
+Design Study Methodology: Re?ections from the Trenches and the Stacks
+Heuristics for Reducing Crossings in 2-Layered Networks
+Graph layout through the VCG tool
+An Efficient Implementation of Sugiyama＊s Algorithm for Layered Graph Drawing
+Skipping-based collaborative recommendations inspired from statistical language modeling.
+Learning curve models and applications: Literature review and research directions.
+Learning as accumulation: a reexamination of the learning curve.
+Costing, technological growth and generalized learning curves.
+Context-aware music recommendation based on latent topic sequential patterns.
+Collaborative filtering based on user＊s drifting interests.
+A model for high-order markov chains.
+The online measurement of ego centered online social networks
+Structural holes versus network closure as social capital. Social Capital: Theory and Research
+Social network analysis: History, theory and methodology
+Neocortex size as a constraint on group size in primates
+Friendship: Development, ecology, and evolution of a relationship, volume
+Mixture Models.
+Egocentric social network structure, health, and pro-social behaviors in a national panel study of americans
+Collaboration networks, structural holes, and innovation: A longitudinal study
+An introduction to personal network analysis and tie churn statistics using e-net
+User-controlled mapping of significant literatures.
+Searching for intellectual turning points: progressive knowledge domain visualization.
+Mapping topics and topic bursts in PNAS.
+Mapping subsets of scholarly information.
+Mapping knowledge domains: characterizing PNAS.
+From paragraph to graph: latent semantic analysis for information visualization.
+Finding scientific topics.
+Crossmaps: visualization of overlapping relationships in collections of journal papers.
+A correlated topic model of science.
+Wide-area, Web-based Mobility Analysis Using Probe Data
+Spotlight: Directing Users＊ Attention on Large Displays
+Visualizing Bus Schedules Adherence and Passenger Load Through Marey Graphs
+Implications of individual differences on evaluating information visualization techniques
+Overdiagnosis and mammography screening
+Overdiagnosis in cancer
+Assaying and isolating individual differences in searching a hierarchical file system
+The framing of decisions and the psychology of choice
+Interactive visualizations to improve bayesian reasoning
+Visualizing uncertainty about the future
+Teaching bayesian reasoning in less than two hours
+How numeracy influences risk comprehension and medical decision making
+Zhongguo Xuexizhe Yingyu Yuliaohu (Chinese Learner English Corpus)
+Visually communicating bayesian statistics to laypersons
+Vocabulary in interlanguage: a study on corpus of english essays written by Asian university students (CEEAUS)
+Manipulating and controlling for personality effects on visualization tasks
+Using mostly native data to correct errors in Learners＊ writing: a metaclassifier approach.
+Twenty five year follow-up for breast cancer incidence and mortality of the canadian national breast screening study: randomised screening trial
+Using classifier features for studying the effect of native language on the choice of written second language words.
+Teaching decision making and statistical thinking with natural frequencies
+Sex and cognition
+The international corpus of learner english: a new resource for foreign language learning and teaching and second language acquisition research.
+The effects of diagrams and relational complexity on user performance in conditional probability problems in a non-learning context
+The ICNALE and sophisticated contrastive interlanguage analysis of Asian learners of english.
+TOEF11: a corpus of non-native English.
+The impact of the format of graphical presentation on healthrelated knowledge and treatment choices
+Representing randomness in the communication of individualized cancer risk estimates: effects on cancer risk perceptions, worry, and subjective uncertainty about risk
+Sentence-level MT evaluation without reference translations: beyond language modeling.
+Visualization idioms: A conceptual model for scientific visualization systems
+How to improve bayesian reasoning without instruction: Frequency formats
+Visual representation of statistical information improves diagnostic inferences in doctors and their patients
+Who profits from visual aids: Overcoming challenges in people＊s understanding of risks
+Using icon arrays to communicate medical risks: overcoming low numeracy
+Overview of the 2nd author profiling task at PAN 2014
+Using tree diagrams without numerical values in addition to relative numbers improves students numeracy skills a randomized study in medical education
+Overview of grammatical error diagnosis for learning Chinese as a foreign language.
+Probabilistic reasoning in clinical medicine: Problems and opportunities, 1982, 249-267
+Visuospatial working memory and mental representation of spatial descriptions
+Exploring social networks with matrix-based representations
+State of the §Art§: A Taxonomy of Artistic Stylization Techniques for Images and Video
+Are humans good intuitive statisticians after all? rethinking some conclusions from the literature on judgment under uncertainty
+Drawing Graphs, Methods and Models.
+Native language detection with ＆Cheap＊ learner corpora.
+Spatiotemporal energy models for the perception of motion.
+Graphic representation can lead to fast and accurate bayesian reasoning
+Dagview: An approach for visualizing large graphs
+Individual differences in use of external visualisations to perform an internal visualisation task
+Graph clustering,§ Comput. Sci. Rev.,undefined
+Why do journals ask for keywords? 
+LIMSI＊s participation to the 2013 shared task on Native Language Identification.
+Numeracy, frequency, and bayesian reasoning
+Visualizing the topical structure of the medical sciences: A self-organizing map approach.
+Performance-optimized hierarchical models predict neural responses in higher visual cortex.
+Health literacy, numeracy, and interpretation of graphical breast cancer risk estimates
+Pictorial representations in statistical reasoning
+Visualization in scientific computing (ViSC): Definition, domain and recommendations.
+How Many People Speak English?
+Trees in a treemap.
+Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial AbilityGarcia-Retamero
+Tree-maps: A spacefilling approach to the visualization of hierarchical information structures.
+Thinking, fast and slow.
+Tidier drawing of trees.
+The Metrics of Science and Technology
+Information slices: Visualising and exploring large hierarchies using cascading, semicircular discs (late breaking hot topic paper).
+Sources of information on specific subjects.
+Hierarchical edge bundles: Visualizing of adjacency relations in hierarchical data.
+Readings in Information Visualization: Using Vision to Think.
+Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream.
+Cartesian vs. radial 每 a comparative evaluation of two visualization tools.
+Precision conference solution
+Determining an author＊s native language by mining a text for errors.
+Deep Gaze I: Boosting Saliency Prediction with Feature Maps Trained on ImageNet.
+Contrastive analysis and native language identification.
+Bilingual random walk models for automated grammar correction of ESL author-produced text.
+How are they different? A quantitative domain comparison of information visualization and data visualization (2000每2014).
+Creativity and conformity in science: Titles, keywords and co-word analysis.
+Automated Grammatical Error Detection for Language Learners, 2nd ed.
+Co-word analysis as a tool for describing the network of interactions between basic and technological research: The case of polymer chemistry.
+CHI 1994每2013: Mapping two decades of intellectual progress through co-word analysis.
+Bibliometrics and Citation Analysis: From the Science Citation Index to Cybermetrics.
+An application of co-word analysis and bibliometric maps for detecting the most highlighting themes in the consumer behaviour research from a longitudinal perspective.
+A closer look at skip-gram modelling.
+CoNLL-2013 shared task: grammatical error correction NTHU system description. InProceedings of the 17th Conference on Computational Natural Language Learning: Shared Task,2013
+Proc. BELIV.undefined
+The CoNLL-2014 shared task on grammatical error correction. InProceedings of the 18th Conference on Computational Natural Language Learning: Shared Task,2014
+Circos: An information aesthetic for comparative genomics
+Handbook of Qualitative Research.undefined
+The CoNLL-2013 shared task on grammatical error correction. InProceedings of the 17th Conference on Computational Natural Language Learning: Shared Task,2013
+The Visualization Handbook.undefined
+The IllinoisColumbia system in the CoNLL-2014 shared task. InProceedings of the 18th Conference on Computational Natural Language Learning: Shared Task,2014
+Mapping the Dynamics of Science and Technology. Palgrave Macmillan,undefined
+Illuminating the Path: The Research and Development Agenda for Visual Analytics. IEEE Computer Society,undefined
+Non-native text analysis: A survey
+Using the Web to overcome data sparseness
+Text categorization with SVMs: learning with many relevant features
+Model building in mathematical programming
+Optimization methods for l1-regularization
+Layout of directed hypergraphs with orthogonal hyperedges
+Probabilistic LSA
+Learning internal representations by error propagation
+Parameter estimation for text analysis.
+On the limited memory BFGS method for large-scale optimization
+Modeling the Internet & the Web: probabilistic methods & algorithms.
+Graph drawing aesthetics created by users, not algorithms
+A mixed-integer program for drawing highquality metro maps
+Grid Systems in Graphic Design
+Improving WSD using topic features.
+Combining labeled and unlabeled data with co每training
+Topic modeling for native language identification.
+Moiregraphs: Radial focus+ context visualization and interaction for graphs with visual nodes
+The two-parameter Poisson-Dirichlet distribution derived from a stable subordinator.
+Supervised term weighting for automated text categorization
+Optimal k-level planarization and crossing minimization
+A Web?based kernel function for measuring the similarity of short text snippets.
+Semantic learning for lazy clause generation
+Coarse-tofine n-best parsing and MaxEnt discriminative reranking.
+Automatically determining an anonymous author＊s native language.
+Author profiling for English emails.
+A New Horizon in Learner Corpus Studies: The Aim of the ICNALE Project
+International Corpus of Learner English (Version 2). Presses Universitaires de Louvain,2009
+Columnbased graph layouts
+Comparative Exploration of Document Collections:a Visual Analytics Approach
+Graph Drawing Conference contest: http://graphdrawing.de/contest2014/topic2.html.undefined
+Force-directed Lombardi-style graph drawing
+Drawing Large Weighted Graphs Using Clustered ForceDirected Algorithm
+A parser for Google Scholar, written in Python
+Visualizing bibliometric networks
+Community detection in graphs.
+Visual analytics of movement: An overview of methods, tools and procedures
+The mathew effect in science.
+Revisit and satiation patterns: Are your restaurant customers satiated?
+Information re-retrieval: repeat queries in yahoo＊s logs.
+Influencing factors on restaurant customers＊ revisit intention: The roles of emotions and switching barriers.
+Adaptive termination and prelaunching policy for improving application startup time
+A Hybrid SpaceFilling and Force-Directed Layout Method for Visualizing Multiple-Category Graphs
+Surveying a Corpus with Alignment Visualization and Topic Modeling
+Juxta Commons
+Computational Discovery and Visualization of the Underlying Semantic Structure of Complicated Historical and Literary Corpora
+A.: What＊s being said near "Martha"? Exploring name entities in literary text collections
+Text Encoding Initiative: TEI
+Theorizing Data Visualization: A Comparative Case-Study Approach
+A Platform for Cultural Information Visualization Using Schematic Expressions of Cube
+Digital Close Reading: TEI for Teaching Poetic Vocabularies
+WORDGRAPH: Keyword-in-Context Visualization for NETSPEAK＊s Wildcard Search
+Visualization of taxi drivers＊ income and mobility intelligence.
+Visualisation of origins, destinations and flows with od maps.
+Undiscovered Public Knowledge": Mining for Patterns of Erotic Language in Emily Dickinson＊s Correspondence with Susan Huntington (Gilbert) Dickinson
+Urban Transportation Planning
+TransCAD Transportation Planning Software.
+http://www. stefanieposavec.co.uk/ (Retrieved 2015-01-09). 3 c The Eurographics Association
+Brushing Dimensions每A Dual Visual Analysis Model for High-Dimensional Data
+Topological patterns in street networks of self-organized urban settlements.
+Markup Beyond XML
+The pagerank citation ranking: Bringing order to the web
+Towards Hermeneutic Markup: An architectural outline
+The network analysis of urban streets: A dual approach
+SVG Visualization of TEI Texts
+Tdrive: Driving directions based on taxi trajectories.
+Visualization As a Bridge to Close Reading: The Audience in The Castle of Perseverance
+Stackingbased visualization of trajectory attribute data.
+On Metaphor in Text Visualization Prototypes
+TextArc: Showing word frequency and distribution in text
+Net Bible Visualizations
+Networks and cities: An information perspective.
+The Problem of Time and Space: The Difficulties in Visualising Spatiotemporal Change in Historical Data
+Network structure and metropolitan mobility.
+A Visual Interface for Exploring Language Use in Slave Narratives
+Methods for Multilevel Analysis and Visualisation of Geographical Networks.
+Graphs, Maps, Trees: Abstract Models for a Literary History
+BiSet: Semantic Edge Bundling with Biclusters for Sensemaking Aggregations
+Digging into Human Rights Violations: phrase mining and trigram visualization
+Centrality measures in spatial networks of urban streets.
+Advanced Technologies for Intelligent Transportation Systems.
+Ambiances: A Framework to Write and Visualize Poetry
+Exploring the Biography and Artworks of Picasso with Interactive Calendars and Timelines
+SKIENA S.: Spatial Analysis of News Sources
+Literature is not Data: Against Digital Humanities
+ANNIS3: A new architecture for generic corpus query and visualization
+Social Network Analysis and Visualization in ＊The Papers of Thomas Jefferson
+Trends 21 Corpus: A Large Annotated Korean Newspaper Corpus for Linguistic and Cultural Studies
+VarifocalReader 每 In-Depth Visual Analysis of Large Text Documents
+eMargin: A Collaborative Textual Annotation Tool
+Visualizing Uncertainty: How to Use the Fuzzy Data of 550 Medieval Texts
+SHNEIDERMAN B.: Interactive Exploration of Versions across Multiple Documents
+Macroanalysis: Digital Methods & Literary History
+Extracting Policy Positions from Political Texts Using Words as Data
+Computing and Visualizing the 19thCentury Literary Genome
+GeoTemCo: Comparative Visualization of Geospatial-Temporal Data with Clutter Removal Based on Dynamic Delaunay Triangulations
+Design Rules for Visualizing Text Variant Graphs
+Rhetoric and Society: Sourcebook on Rhetoric: Key Concepts
+The history of humanities computing. A companion to digital humanities
+Minecraft Anyone? Encouraging A New Generation of Computer Scientists and Humanists
+A glimpse of the change of worldview between 7th and 10th century China through two leishu
+A glossary of contemporary literary theory
+Trading Consequences: A Case Study of Combining Text Mining & Visualisation to Facilitate Document Exploration
+HyperMachiavel: a translation comparison tool
+A.: Visual GISting: bringing together corpus linguistics and Geographical Information Systems
+Reading graphs, maps, trees: responses to Franco Moretti
+Digital approaches to understanding the geographies in literary and historical texts
+Approaching the Coasts of Utopia: Visualization Strategies for Mapping Early Modern Paratexts
+The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis
+Visualizing Sound as Functional N-Grams in Homeric Greek Poetry
+Combining Macro- and Microanalysis for Exploring the Construal of Scientific Disciplinarity
+The Social Lives of Books: Mapping the Ideational Networks of Toni Morrison
+Finding Stories in the Archive through Paragraph Alignment
+Exploratory Thematic Analysis for Historical Newspaper Archives
+Mapping Homer＊s Catalogue of Ships
+network analysis, and Latin literature
+A Revolutionary Approach to Humanities Computing?: Tools Development and the D2K DataMining Framework
+Digital Yoknapatawpha: Interpreting a Palimpsest of Place
+Information visualization and text mining: application to a corpus on posthumanism
+Distant Listening to Gertrude Stein＊s ＊Melanctha＊: Using Similarity Analysis in a Discovery Paradigm to Analyze Prosody and Author Influence
+Z-Axis Scholarship: Modeling How Modernists Write the City
+The Story of One: Humanity scholarship with visualization and text analysis
+Taken Possession of": The Reprinting and Reauthorship of Hawthorne＊s "Celestial Railroad" in the Antebellum Religious Press
+The detection and quantication of retinopathy using digital angiograms
+Text Modeling and Visualization with Network Graphs
+Readings in information visualization: using vision to think
+Segmentation of retinal blood vessels by combining the detection of centerlines and morphological reconstruction
+Empowering Play, Experimenting with Poems: Disciplinary Values and Visualization Development
+Retinal vessel segmentation using the 2D Gabor wavelet and supervised classification
+Solitary Mind, Collaborative Mind: Close Reading and Interdisciplinary Research
+Myopia: A Visualization Tool in Support of Close Reading
+Validating Computational Stylistics in Literary Interpretation
+Something that is interesting is interesting them＊: Using Text Mining and Visualizations to Aid Interpreting Repetition in Gertrude Stein＊s The Making of Americans
+DocScapes: Visualizing Document Structures with SVG
+Multiscale vessel enhancement filtering
+Violence and the Digital Humanities Text as Pharmakon
+Mapping the World of an Ancient Greek Historian: The HESTIA Project
+Minimization of regionscalable fitting energy for image segmentation
+Closing in on Close Reading
+Documentary Social Networks: Collective Biographies of Women
+An index to quantify an individual's scientific research output
+Improving vessel segmentation in ultra-wide field-of-view retinal fluorescein angiograms
+Eigenfactor: Measuring the value and prestige of scholarly journals
+Imaging and evaluation of corneal vascularization using fluorescein and indocyanine green angiography
+Towards visualizing linguistic patterns of deliberation: a case study of the S21 arbitration
+Detection of Citations and Textual Reuse on Ancient Greek Texts and its Applications in the Classical Studies: eAQUA Project
+Fraz et al., ※Blood vessel segmentation methodologies in retinal images〞A survey
+Uncertain about Uncertainty: Different ways of processing fuzziness in digital humanities data
+Fast retinal vessel detection and measurement using wavelets and edge location refinement,§
+TEI for Close Reading: Can It Work for History
+DiaView: Visualise Cultural Change in Diachronic Corpora
+Detection of blood vessels in retinal images using two-dimensional matched filters
+ComPair: Compare and Visualise the Usage of Language
+Detection and measurement of retinal vessels in fundus images using amplitude modified second-order Gaussian filter
+Glimpses though the clouds: collocates in a new light
+Mapping the Information Science Domain
+The Layered Text. From Textual Zoom, Text Network Analysis and Text Summarisation to a Layered Interpretation of Meaning
+Automated localisation of the optic disc, fovea, and retinal blood vessels from digital colour fundus images
+Rule-based Visual Mappings每with a Case Study on Poetry Visualization
+WikiPhiloSofia: Extraction and Visualization of Facts, Relations, and Networks Concerning Philosophers Using Wikipedia
+A Flexible System for Text Analysis with Semantic Networks
+The RenderMan Interface version
+Smooth Subdivision Surfaces Based On Triangles
+Will you ※reconsume§ the near past? fast prediction on short-term reconsumption behaviors
+Real-time rendering techniques with hardware tessellation.
+A morphological approach for vessel segmentation in eye fundus images, with quantitative evaluation
+The form of the forgetting curve and the fate of memories
+Novelty and diversity in top-n recommendation〞Analysis and evaluation
+Music Recommendation and Discovery in The Long Tail.
+Workand Inequality in Urban China.
+Dynamic featureadaptive subdivision.
+With a Little Help from My Friends: Social Resources as an Explanation of Occupational Status and Income in West Germany,the Netherlands, and the United States
+UrbanJob Mobility
+The Strength of Strong Ties: The Importance of Philos in Organizations
+Approximating CatmullClark subdivision surfaces with bicubic patches.
+The Psychology of Interpersonal Relations.
+The InstitutionalCulture of Capitalism: Social Relations and PrivateEnterprise in a Chinese City
+Adaptive tessellation of subdivision surfaces with displacement mapping.
+Structural Holes: The Social Structureof Competition
+Large scale query log analysis of refinding
+Social Resources and Strength of Ties: StructuralFactors in Occupational Status Attainmen
+Social Resources and Instrumental Action
+Social Capital, Structural Holes, and the Entrepreneur
+Information reretrieval: Repeat queries in Yahoo＊s logs
+Property Rights and Stratification in Socialist Redistributive Economies
+Political Influence.
+Occupational Prestige in Urban China
+Moral Mazes: The World of Corporate Managers.
+Measuring Tie Strength
+Job-Searching: A Comparative Study of Male Employment Relations in the United States and Japan
+Job Search and Network Composition: Implications of the Strengthof Weak Ties Hypothesis
+Job Mobility and Social Ties: Social Resources, Prior Job, and Status Attainment
+The allocation of time: Empirical findings, behavioral models, and problems of measurement.
+Interpersonal Choice and Networks
+InformalHiring and Income in the Labor Market
+Recent research on selective exposure to information.
+Inequality of Opportunity in Urban China and America
+Guanxi Networks and Job Mobility in China and Singapore
+CEPR: A collaborative exploration and periodically returning model for location prediction
+Public attitudes toward israel: A study of the attentive and issue publics.
+Gifts, Favors, and Banquets: The Art of Social Relationships in China
+Origins of attitude importance: Self-interest, social identification, and value relevance.
+Gifts, Bribes, and Guanxi: A Reconsiderationof Bourdieu's Social Capital
+Getting a Job: A Study of Contacts and Careers.
+Nokia and htc mock samsung galaxy s5 launch (badly).
+Getting Ahead in Urban China
+Family and Social Network: Roles, Norms, and External Relationships in Ordinary Urban Families.
+Fabric of Chinese Society: A Study of the Social Life in a Chinese County Seat.
+Issue competition and attention distraction: A zero-sum theory of agenda-setting.
+Ethnic Enterprise in America: Business and Welfare among Chinese, Japanese, and Blacks.
+Contract with a Chinese Face: Socially Embedded Factors in the Transformation from Hierarchy to Market, 1978-1989
+Information Visualization, Third Edition: Perception for Design (Interactive Technologies).
+Communist Neo-Traditionalism: Workand Authorityin Chinese Industry.
+A comparative study of learning curves with forgetting
+Government policy and citizen passion: A study of issue publics in contemporary america.
+Brokerage Behavior in RestrictedExchange Networks
+Google+ ripples: A native visualization of information flow.
+Bonds of Pluralism: The Form and Substance of Urban Social Networks.
+An Introduction to Sample Selection Bias in Sociological Data
+Afterword
+Competition among memes in a world with limited attention.
+After Comradeship: Personal Relations in China Since the Cultural Revolution
+Access to Community Resources in a Chinese City
+A Village in Malta
+A Socioeconomic Index for All Occupations
+A Dilemma of State Power: Brokerage and Influence in the National Health Policy Domain
+Immigration and Entrepreneurship: Culture, Capital, and EthnicNetworks.New1993
+The Informal Economy: Studies in Advanced and Less Developed Countries.Baltimore, MD: Johns1989
+Kinds of Third-PartyEffects on Trust.&quot;Rationality and Society1995
+Visual exploration of complex timevarying graphs
+Preserving the mental map of a diagram
+Dynamic network visualization
+ACE: A fast multiscale eigenvector computation for drawing huge graphs
+So Who Won? Dynamic Max Discovery with the Crowd
+A heuristic for graph drawing
+Topology Preserving Constrained Graph Layout
+Face and Favor: The Chinese Power Game
+Bringing strong ties back in: Indirect ties, network bridges, and job searches in China
+iPath: Interactive exploration of biochemical pathways and networks.
+Eyes at the interface
+Evaluation and analysis of users' activity organization
+Visual analysis of biological dataknowledge networks.
+A theory of stimulus-response compatibility applied to human-computer interaction
+A study in two-handed input
+Semiology of Graphics: Diagrams, Networks, Maps.
+Variety seeking through brand switching.
+Tourism and gastronomy: Gastronomy＊s influence on how tourists experience a destination.
+Multi-opinion ring: Visualizing and predicting multiple opinion orientations in online social media
+The relationship of destination selection attributes to psychological, behavioral and demographic variables.
+The relationship between risk-taking, sensation-seeking, and the tourist behavior of young adults: A cross-cultural study.
+Improved circular layouts.
+The practical aesthetics of traditional cuisines: slow food in tuscany.
+The dining experience: do restaurants satisfy customer needs?
+The "need for novelty": A comparison of six instruments
+Extended LineSets: A visualization technique for the interactive inspection of biological pathways.
+Exploring and exploiting disease interactions from multi-relational gene and phenotype networks.
+Temporal destination revisit intention: The effects of novelty seeking and satisfaction.
+Solving the apparent diversity-accuracy dilemma of recommender systems.
+Socio-demographic characteristics moderate the association between drd4 and novelty seeking
+Biochemical modeling with systems biology graphical notation.
+Research on innovation: A review and agenda for marketing science.
+A survey of twodimensional graph layout techniques for information visualisation.
+Regional and temporal differences in real-time dopamine efflux in the nucleus accumbens during free-choice novelty.
+A graphical notation for biochemical networks.
+Tag-based user profiling for social media recommendation
+Drawing: Algorithms for the Visualization of Graphs, 1st1998
+Predicting peptides that bind to mhc molecules using supervised learning of hidden markov models.
+Semantic modelling of user interests based on crossfolksonomy analysis
+Learning user profiles from tagging data and leveraging them for personal(ized) information access
+Learning from labeled and unlabeled data with label propagation
+Network-based predictions of retail store commercial categories and optimal locations
+Interestmap: Harvesting social network profiles for recommendations
+Mining noveltyseeking trait across heterogeneous domains
+An effective, low-cost measure of semantic relatedness obtained from wikipedia links,
+Fused matrix factorization with geographical and social influence in locationbased social networks.
+Functions of varied experience.
+Density estimation for statistics and data analysis, volume 26.
+Delivering quality service: Diagnosing favorable and unfavorable service encounters in restaurants.
+Consumer research in the restaurant environment, part 1: A conceptual model of dining satisfaction and return patronage.
+Amphetamine-induced increases in extracellular dopamine, drug wanting, and novelty seeking: a pet/[11c] raclopride study in healthy men.
+What＊s Being Said Near ＆Martha＊? Exploring name entities in literary text collections
+Visualizing Topics with Multi-Word Expressions
+User-Directed Sentiment Analysis: Visualizing the Affective Content of Documents
+The Topic Browser: An Interactive Tool for Browsing Topic Models
+The Text Mining Handbook: Advanced Approaches in Analyzing Unstructured Data.
+The Sandbox for Analysis: Concepts and Methods
+Survey of Text Mining II: Clustering, Classification, and Retrieval
+Parallel Topics: A Probabilistic Approach to Exploring Document Collections
+Jigsaw to Save Vastopolis - VAST 2011 Mini Challenge 3 Award: ＆Good Use of the Analytic Process＊
+Information Triage with TRIST
+Visualizing time-oriented data每A systematic view.
+Impact of Similarity Measures on Web-Page Clustering
+Illuminating the Path.
+Visual analysis of news streams with article threads.
+Graphically Displaying Text
+Exploring the Inventor＊s Paradox: Applying Jigsaw to Software Visualization
+Analyst＊s Notebook
+Near real time information mining in mulitlingual news.
+Reflections on the Evolution of the Jigsaw Visual Analytics System,§ Information Visualization,2013
+Text Processing with GATE (Version2011
+Kernel density estimate,
+The RenderMan Interface version
+Information-Seeking Support Systems,§ Computer,2009
+Circle segments: A technique for visually exploring large multidimensional data sets.
+Harmonizing European and American Aviation Modernization Efforts Through Visual Analytics,§ J. Aircraft,2011
+Smooth Subdivision Surfaces Based On Triangles
+Supporting Exploratory Search,§ Comm. ACM,2006
+Recursively Generated BSpline Surfaces on Arbitrary Topology Meshes.
+Visual Analytics Support for Intelligence Analysis,§ Computer,2013
+Real-time rendering techniques with hardware tessellation.
+Modern Information Retrieval: The Concepts and Technology behind Search,2011
+Visual Analytics: Definition, Process, and Challenges,§ Information Visualization: Human-Centered Issues and Perspectives,2008
+Dynamic featureadaptive subdivision.
+Behaviour of recursive division surfaces near extraordinary points.
+Approximating CatmullClark subdivision surfaces with bicubic patches.
+Adaptive tessellation of subdivision surfaces with displacement mapping.
+Human-level concept learning through probabilistic program induction
+The Cambridge Learner Corpus: Error coding and analysis for lexicography and ELT.
+Moses: Statistical Machine Translation System 每 User Manual and Code Guide.
+User-Constructed, Multiple View Visualization
+Supporting Exploratory Search
+Stuff I＊ve Seen: A System for Personal Information Retrieval and Re-use
+Promoting Universal Usability with Multi-Layer Interface
+Importancedriven visualization layouts for large time series data
+PESTO: an Integrated Query/Browser for Object Databases
+Brushing Scatter Plots.
+Scalable Recommendations with Poisson Factorization
+Efficient and high quality force-directed graph drawing
+※Without the Clutter of Unimportant Words§: Descriptive Keyphrases for Text Visualization
+A Comparative Study of Bing Web N-gram Language Models for Web Search and Natural Language Processing.
+Propagation algorithms for variational Bayesian learning
+Natural Language Processing with Python. O＊Reilly Media Inc.2009
+ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps
+Predicting quality of service for selection by neighborhood-based collaborative-filtering
+Pattern Recognition and Machine Learning
+NMFE-SSCC: Non-negative matrix factorization ensemble for semi-supervised collective classification Knowl, Based Syst.
+Incorporating reliability measurements into the predictions of recommender system
+Spatial interaction and the statistical analysis of lattice systems
+Star coordinates: A multi-dimensional visualization technique with uniform treatment of dimensions
+Convex and semi-nonnegative matrix-factorizations
+Snakes, shapes, and gradient vector flow
+SAR image segmentation based on level set approach and G0A model
+An efficient non-negative matrixfactorization-based approach to collaborative filtering for recommender systems
+Comparing Corpora using Frequency Profiling
+============Matched============235
+A hybrid content-based and item-based collaborative filtering approach to recommend TV programs enhanced with singular value decomposition
+A hybrid content-based and item-based collaborative filtering approach to recommend TV programs enhanced with singular value decomposition.
+A highly adaptive recommender system based on fuzzy logic for b2c e-commerce portals
+A highly adaptive recommender system based on fuzzy logic for B2C e-commerce portals.
+A collaborative filtering similarity measure based on singularities
+A collaborative filtering similarity measure based on singularities.
+The virginia tech system at conll-2016 shared task on shallow discourse parsing.
+The Virginia Tech System at CoNLL-2016 Shared Task on Shallow Discourse Parsing.
+The penn chinese treebank: Phrase structure annotation of a large corpus
+The Penn Chinese TreeBank: Phrase structure annotation of a large corpus.
+The clac discourse parser at conll-2016.
+The CLaC Discourse Parser at CoNLL-2016.
+The chinese discourse treebank: a chinese corpus annotated with discourse relations.
+The Chinese Discourse TreeBank: a Chinese corpus annotated with discourse relations.
+The Penn Discourse Treebank 2.0.
+The Penn Discourse TreeBank 2.0.
+The CoNLL-2015 shared task on shallow discourse parsing.
+The CoNLL-2015 Shared Task on Shallow Discourse Parsing.
+Sonlp-dp system for conll-2016 english shallow discourse parsing.
+SoNLP-DP System for ConLL-2016 English Shallow Discourse Parsing.
+Sonlp-dp system for conll-2016 chinese shallow discourse parsing.
+SoNLP-DP System for ConLL-2016 Chinese Shallow Discourse Parsing.
+Shallow discourse parsing using convolutional neural network.
+Shallow Discourse Parsing Using Convolutional Neural Network.
+Robust non-explicit neural discourse parser in english and chinese.
+Robust Non-Explicit Neural Discourse Parser in English and Chinese.
+Reflections on the Penn Discourse Treebank, comparable corpora, and complementary annotation.
+Reflections on the Penn Discourse TreeBank, Comparable Corpora, and Complementary Annotation.
+Ousting Ivory Tower Research: Towards a Web Framework for Providing Experiments as a Service.
+Ousting ivory tower research: towards a web framework for providing experiments as a service.
+Joint pos tagging and transition-based constituent parsing in chinese with non-local features.
+Joint POS Tagging and Transition-based Constituent Parsing in Chinese with Non-local Features.
+Iit (bhu) submission on the conll-2016 shared task: Shallow discourse parsing using semantic lexicons.
+IIT (BHU) Submission on the CoNLL-2016 Shared Task: Shallow Discourse Parsing using Semantic Lexicons.
+Finding arguments as sequence labeling in discourse parsing.
+Finding Arguments as Sequence Labeling in Discourse Parsing.
+Do we really need all those rich linguistic features? a neural network-based approach to implicit sense labeling.
+Do We Really Need All Those Rich Linguistic Features? A Neural Network-Based Approach to Implicit Sense Labeling.
+Discovering implicit discourse relations through Brown cluster pair representation and coreference patterns.
+Discovering Implicit Discourse Relations Through Brown Cluster Pair Representation and Coreference Patterns.
+Discourse sense classification from scratch using focused rnns.
+Discourse Sense Classification from Scratch using Focused RNNs.
+Discourse relation sense classification with two-step classifiers.
+Discourse Relation Sense Classification with Two-Step Classifiers.
+Discourse relation sense classification systems for conll-2016 shared task.
+Discourse Relation Sense Classification Systems for CoNLL-2016 Shared Task.
+Da-iict submission for pdtb-styled discourse parser.
+DA-IICT Submission for PDTB-styled Discourse Parser.
+Automatic sense prediction for implicit discourse relations in text.
+Automatic sense prediction for implicit discourse relations in text.
+Aggregated word pair features for implicit discourse relation disambiguation.
+Aggregated Word Pair Features for Implicit Discourse Relation Disambiguation.
+Adapting event embedding for implicit discourse relation recognition.
+Adapting Event Embedding for Implicit Discourse Relation Recognition.
+A refined end-to-end discourse parser.
+A Refined End-to-End Discourse Parser.
+A constituent syntactic parse tree based discourse parser.
+A Constituent Syntactic Parse Tree Based Discourse Parser.
+A PDTB-styled end-to-end discourse parser.
+A PDTB-styled end-to-end discourse parser.
+10th International Symposium on Medical Information and Communication Technology, ISMICT 2016, Worcester, MA, USA, March 20-23, 2016
+14th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks, WiOpt 2016, Tempe, AZ, USA, May 9-13, 2016
+Correcting semantic collocation errors with L1-induced paraphrases.
+Correcting Semantic Collocation Errors with L1-induced Paraphrases.
+Variational message passing
+Variational Message Passing.
+The infinite tree
+The Infinite Tree.
+Syntactic topic models
+Syntactic Topic Models.
+Supervised topic models
+Supervised Topic Models.
+Smoothed bloom filter language models: Tera-scale lms on the cheap
+Smoothed Bloom Filter Language Models: Tera-Scale LMs on the Cheap.
+Simultaneous image classification and annotation
+Simultaneous image classification and annotation.
+Shared logistic normal distributions for soft parameter tying in unsupervised grammar induction
+Shared Logistic Normal Distributions for Soft Parameter Tying in Unsupervised Grammar Induction.
+Scalable inference in latent variable models
+Scalable inference in latent variable models.
+Parallelized variational EM for latent Dirichlet allocation: An experimental evaluation of speed and scalability
+Parallelized Variational EM for Latent Dirichlet Allocation: An Experimental Evaluation of Speed and Scalability.
+Parallel inference for latent dirichlet allocation on graphics processing units
+Parallel Inference for Latent Dirichlet Allocation on Graphics Processing Units.
+PLDA: parallel latent Dirichlet allocation for large-scale applications
+PLDA: Parallel Latent Dirichlet Allocation for Large-Scale Applications.
+Online learning for latent dirichlet allocation
+Online Learning for Latent Dirichlet Allocation.
+On smoothing and inference for topic models
+On Smoothing and Inference for Topic Models.
+Mixed Membership Stochastic Blockmodels.
+Mixed Membership Stochastic Blockmodels.
+Mining business topics in source code using latent dirichlet allocation
+Mining business topics in source code using latent dirichlet allocation.
+MapReduce: Simplified data processing on large clusters
+MapReduce: Simplified Data Processing on Large Clusters.
+Large language models in machine translation
+Large Language Models in Machine Translation.
+Joint sentiment/topic model for sentiment analysis
+Joint sentiment/topic model for sentiment analysis.
+Holistic sentiment analysis across languages: Multilingual supervised latent Dirichlet allocation
+Holistic Sentiment Analysis Across Languages: Multilingual Supervised Latent Dirichlet Allocation.
+Hierarchical Dirichlet processes
+Hierarchical Dirichlet Processes with Random Effects.
+Graphical models, exponential families, and variational inference
+Graphical Models, Exponential Families, and Variational Inference.
+Fully distributed EM for very large datasets
+Fully distributed EM for very large datasets.
+Efficient methods for topic model inference on streaming document collections
+Efficient methods for topic model inference on streaming document collections.
+Effects of age and gender on blogging
+Effects of Age and Gender on Blogging.
+Asynchronous distributed learning of topic models
+Asynchronous Distributed Learning of Topic Models.
+An introduction to variational methods for graphical models
+An Introduction to Variational Methods for Graphical Models.
+An architecture for parallel topic
+An Architecture for Parallel Topic Models.
+Towards a standard evaluation method for grammatical error detection and correction.
+Towards a standard evaluation method for grammatical error detection and correction.
+The ups and downs of preposition error detection in ESL writing.
+The Ups and Downs of Preposition Error Detection in ESL Writing.
+The second release of the RASP system.
+The Second Release of the RASP System.
+The mathematics of statistical machine translation: parameter estimation.
+The Mathematics of Statistical Machine Translation: Parameter Estimation.
+The AMU system in the CoNLL-2014 shared task: grammatical error correction by data-intensive and feature-rich statistical machine translation.
+The AMU System in the CoNLL-2014 Shared Task: Grammatical Error Correction by Data-Intensive and Feature-Rich Statistical Machine Translation.
+System combination for grammatical error correction.
+System Combination for Grammatical Error Correction.
+Sequence segmentation for statistical machine translation.
+Lattice rescoring methods for statistical machine translation.
+Sequence to Sequence Learning with Neural Networks.
+Sequence to Sequence Learning with Neural Networks.
+Recurrent Continuous Translation Models.
+Recurrent Continuous Translation Models.
+On Using Very Large Target Vocabulary for Neural Machine Translation.
+On Using Very Large Target Vocabulary for Neural Machine Translation.
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.
+HMM-based word alignment in statistical translation.
+HMM-Based Word Alignment in Statistical Translation.
+Grammatical error correction with alternating structure optimization.
+Grammatical Error Correction with Alternating Structure Optimization.
+Correcting ESL errors using phrasal SMT techniques.
+Correcting ESL Errors Using Phrasal SMT Techniques.
+BLEU: a method for automatic evaluation of machine translation.
+Bleu: a Method for Automatic Evaluation of Machine Translation.
+Algorithm selection and model adaptation for ESL correction tasks.
+Algorithm Selection and Model Adaptation for ESL Correction Tasks.
+Addressing the Rare Word Problem in Neural Machine Translation.
+Addressing the Rare Word Problem in Neural Machine Translation.
+CoNLL-2013 shared task: grammatical error correction NTHU system description.
+CoNLL-2013 Shared Task: Grammatical Error Correction NTHU System Description.
+Using syntax to disambiguate explicit discourse connectives in text.
+Using Syntax to Disambiguate Explicit Discourse Connectives in Text.
+Shallow discourse parsing with conditional random fields.
+Shallow Discourse Parsing with Conditional Random Fields.
+A decision-theoretic generalization of on-line learning and an application to boosting.
+A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting.
+Programming Languages and Systems, 9th European Symposium on Programming, ESOP 2000, Held as Part of the European Joint Conferences on the Theory and Practice of Software, ETAPS 2000, Berlin, Germany, March 25 - April 2, 2000, Proceedings
+Advances in Cryptology - ASIACRYPT 2000, 6th International Conference on the Theory and Application of Cryptology and Information Security, Kyoto, Japan, December 3-7, 2000, Proceedings
+The UniTN Discourse Parser in CoNLL 2015 Shared Task: Token-level Sequence Labeling with Argument-specific Models
+The UniTN Discourse Parser in CoNLL 2015 Shared Task: Token-level Sequence Labeling with Argument-specific Models.
+A Neural Algorithm of Artistic Style
+A Neural Algorithm of Artistic Style.
+shared task: Grammatical error correction with a syntactic n-gram language model from a big corpora.
+CoNLL 2014 Shared Task: Grammatical Error Correction with a Syntactic N-gram Language Model from a Big Corpora.
+Using parse features for preposition selection and error detection.
+Using Parse Features for Preposition Selection and Error Detection.
+Tuning a grammar correction system for increased precision.
+Tuning a Grammar Correction System for Increased Precision.
+Grammatical error detection and correction using a single maximum entropy model.
+Grammatical Error Detection and Correction using a Single Maximum Entropy Model.
+Grammatical error correction using integer linear programming.
+Grammatical Error Correction Using Integer Linear Programming.
+Generating confusion sets for context-sensitive error correction.
+Generating Confusion Sets for Context-Sensitive Error Correction.
+Factored statistical machine translation for grammatical error correction.
+Factored Statistical Machine Translation for Grammatical Error Correction.
+Detecting errors in English article usage by non-native speakers.
+Detecting errors in English article usage by non-native speakers.
+Accurate unlexicalized parsing.
+Accurate Unlexicalized Parsing.
+Using generative models for handwritten digit recognition.
+Using Generative Models for Handwritten Digit Recognition.
+Thinning methodologies - A comprehensive survey.
+Thinning Methodologies - A Comprehensive Survey.
+Object detection with discriminatively trained part-based models.
+Object Detection with Discriminatively Trained Part-Based Models.
+ImageNet large scale visual recognition challenge
+ImageNet Large Scale Visual Recognition Challenge.
+Identification of fork points on the skeletons of handwritten Chinese characters.
+Identification of Fork Points on the Skeletons of Handwritten Chinese Characters.
+A Facial Pose Estimation Algorithm Using Deep Learning.
+Predicting daily activities from egocentric images using deep learning.
+An overview of statistical learning theory.
+An overview of statistical learning theory.
+A rational analysis of rule-based concept learning.
+A Rational Analysis of Rule-Based Concept Learning.
+Text classification from labeled and unlabeled documents using EM
+Text Classification from Labeled and Unlabeled Documents using EM.
+Probabilistic models for unified collaborative and content-based recommendation in sparse-data environments.
+Probabilistic Models for Unified Collaborative and Content-Based Recommendation in Sparse-Data Environments.
+Overview of the first text retrieval conference
+Overview of the First Text REtrieval Conference (TREC-1).
+Methods for Speech Recognition.
+Minimum classification error rate methods for speech recognition.
+Latent semantic indexing: A probabilistic analysis.
+Latent Semantic Indexing: A Probabilistic Analysis.
+Introduction to variational methods for graphical models.
+An Introduction to Variational Methods for Graphical Models.
+Complementing WordNet with Roget's and Corpus-based Thesauri for Information Retrieval.
+Effects of Term Segmentation on Chinese/English Cross-Language Information Retrieval.
+General lower bounds based on computer generated higher order expansions.
+General Lower Bounds based on Computer Generated Higher Order Expansions.
+Web spam taxonomy.
+Web Spam Taxonomy.
+The Connectivity Sonar: Detecting Site Functionality by Structural Patterns.
+The connectivity sonar: detecting site functionality by structural patterns.
+Spam Filtering Using Statistical Data Compression Models.
+Spam Filtering Using Statistical Data Compression Models.
+On-line spam filter fusion.
+On-line spam filter fusion.
+Employing Latent Dirichlet Allocation for fraud detection in telecommunications.
+Employing Latent Dirichlet Allocation for fraud detection in telecommunications.
+Discovering Objects and their Localization in Images.
+Discovering Objects and their Localization in Images.
+Detecting spam web pages through content analysis.
+Detecting spam web pages through content analysis.
+Detecting phrase-level duplication on the world wide web.
+Detecting phrase-level duplication on the world wide web.
+Challenges in web search engines.
+Challenges in web search engines.
+A Bayesian hierarchical model for learning natural scene categories.
+A Bayesian Hierarchical Model for Learning Natural Scene Categories.
+Latent Dirichlet Allocation in Web Spam Filtering
+Latent dirichlet allocation in web spam filtering.
+A non negative matrix factorization for collaborative filtering recommender systems based on a Bayesian probabilistic model
+A non negative matrix factorization for collaborative filtering recommender systems based on a Bayesian probabilistic model.
+CoNLL 2016 Shared Task on Multilingual Shallow Discourse Parsing
+CoNLL 2016 Shared Task on Multilingual Shallow Discourse Parsing.
+Unsupervised induction of tree substitution grammars for dependency parsing.
+Unsupervised Induction of Tree Substitution Grammars for Dependency Parsing.
+Training paradigms for correcting errors in grammar and usage
+Training Paradigms for Correcting Errors in Grammar and Usage.
+The story of the characters, the DNA and the native language.
+The Story of the Characters, the DNA and the Native Language.
+Tense and aspect error correction for ESL learners using global context.
+Tense and Aspect Error Correction for ESL Learners Using Global Context.
+Techniques for automatically correcting words in text.
+Techniques for Automatically Correcting Words in Text.
+Structural parse tree features for text representation.
+Structural Parse Tree Features for Text Representation.
+Robust, lexicalized native language identification.
+Robust, Lexicalized Native Language Identification.
+Robust Systems for Preposition Error Correction Using Wikipedia Revisions.
+Robust Systems for Preposition Error Correction Using Wikipedia Revisions.
+Problems in evaluating grammatical error detection systems.
+Problems in Evaluating Grammatical Error Detection Systems.
+Peer and Self Assessment in Massive Online Classes
+Peer and self assessment in massive online classes.
+Native language identification: a key N-gram category approach.
+Native Language Identification: A Key N-gram Category Approach.
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+Very Deep Convolutional Networks for Large-Scale Image Recognition.
+Native language identification with PPM.
+Native Language Identification with PPM.
+Native language detection with tree substitution grammars.
+Native Language Detection with Tree Substitution Grammars.
+Separating style and content with bilinear models.
+Separating Style and Content with Bilinear Models.
+Maximizing classification accuracy in native language identification.
+Maximizing Classification Accuracy in Native Language Identification.
+Separating style and content on a nonlinear manifold.
+Separating Style and Content on a Nonlinear Manifold.
+Linggle: a web-scale linguistic search engine for words in context.
+Linggle: a Web-scale Linguistic Search Engine for Words in Context.
+Recognizing image style
+Recognizing Image Style.
+Pyramid-based texture analysis/synthesis.
+Pyramid-based texture analysis/synthesis.
+Joint learning and inference for grammatical error correction.
+Joint Learning and Inference for Grammatical Error Correction.
+Identifying the L1 of non-native writers: the CMU-Haifa System.
+Identifying the L1 of non-native writers: the CMU-Haifa system.
+Image quilting for texture synthesis and transfer.
+Image quilting for texture synthesis and transfer.
+Image analogies.
+Image analogies.
+From language to family and back: native language and language family identification from english text.
+From Language to Family and Back: Native Language and Language Family Identification from English Text.
+Feature Guided Texture Synthesis (FGTS) for Artistic Style Transfer.
+Feature Guided Texture Synthesis (FGTS) for artistic style transfer.
+Feature Selection for Text Categorization on Imbalanced Data
+Feature selection for text categorization on imbalanced data.
+Fast texture transfer.
+Fast Texture Transfer.
+Exploring syntactic features for native language identification: a variationist perspective on feature encoding and ensemble optimization.
+Exploring Syntactic Features for Native Language Identification: A Variationist Perspective on Feature Encoding and Ensemble Optimization.
+Directional Texture Transfer.
+Directional texture transfer.
+Exploring grammatical error correction with not-so-crummy machine translation.
+Exploring Grammatical Error Correction with Not-So-Crummy Machine Translation.
+Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation.
+Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation.
+Exploring adaptor grammars for native language identification.
+Exploring Adaptor Grammars for Native Language Identification.
+Deep Neural Networks Rival the Representation of Primate IT Cortex for Core Visual Object Recognition.
+Deep Neural Networks Rival the Representation of Primate IT Cortex for Core Visual Object Recognition.
+Exploiting parse structures for native language identification.
+Exploiting Parse Structures for Native Language Identification.
+Closing the gap to human-level performance in face verification.
+DeepFace: Closing the Gap to Human-Level Performance in Face Verification.
+Computational methods in authorship attribution.
+Computational methods in authorship attribution.
+A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients.
+A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients.
+Can characters reveal your native language? A language-independent approach to native language identification.
+Can characters reveal your native language? A language-independent approach to native language identification.
+Automatic grammar correction for second-language learners.
+Automatic grammar correction for second-language learners.
+Adaptor grammars: a framework for specifying compositional nonparametric Bayesian models
+Adaptor Grammars: A Framework for Specifying Compositional Nonparametric Bayesian Models.
+A survey of modern authorship attribution methods
+A survey of modern authorship attribution methods.
+A report on the first native language identification shared task.
+A Report on the First Native Language Identification Shared Task.
+A machine learning approach to the automatic evaluation of machine translation.
+A Machine Learning Approach to the Automatic Evaluation of Machine Translation.
+A framework for learning predictive structures from multiple tasks and unlabeled data.
+A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data.
+The Wikipedia XML corpus.
+The Wikipedia XML Corpus.
+Text categorization by boosting automatically extracted concepts
+Text categorization by boosting automatically extracted concepts.
+Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images.
+Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images.
+Improving Similarity Measures for Short Segments of Text.
+Similarity Measures for Short Segments of Text.
+Measuring semantic similarity between words using Web search engines
+Measuring semantic similarity between words using web search engines.
+Machine learning in automated text
+Machine learning in automated text categorization.
+Learning to cluster Web search results
+Learning to cluster web search results.
+LDA-based document models for ad-hoc retrieval
+LDA-based document models for ad-hoc retrieval.
+Improving similarity measures for short segments of text
+Improving Similarity Measures for Short Segments of Text.
+Identifying document topics using the Wikipedia category network
+Identifying Document Topics Using the Wikipedia Category Network.
+Grouper: a dynamic clustering interface to Web search results.
+Grouper: A Dynamic Clustering Interface to Web Search Results.
+Distributional word clusters vs. words for text categorization
+Distributional Word Clusters vs. Words for Text Categorization.
+Distributional clustering of words for text classification
+Distributional Clustering of Words for Text Classification.
+Clustering short texts using Wikipedia
+Clustering short texts using wikipedia.
+An introduction to MCMC for machine learning.
+An Introduction to MCMC for Machine Learning.
+A maximum entropy approach to natural language processing
+A Maximum Entropy Approach to Natural Language Processing.
+The infinite pcfg using hierarchical dirichlet processes.
+The Infinite PCFG Using Hierarchical Dirichlet Processes.
+A latent Dirichlet model for unsupervised entity resolution.
+A Latent Dirichlet Model for Unsupervised Entity Resolution.
+Source language markers in EUROPARL translations.
+Source Language Markers in EUROPARL Translations.
+A hierarchical monothetic document clustering algorithm for summarization and browsing search results
+A hierarchical monothetic document clustering algorithm for summarization and browsing search results.
+Reducing grounded learning tasks to grammatical inference.
+Reducing Grounded Learning Tasks To Grammatical Inference.
+Productivity and reuse in language.
+Productivity and Reuse in Language.
+PCFGs, Topic Models, Adaptor Grammars and Learning Topical Collocations and the Structure of Proper Names.
+PCFGs, Topic Models, Adaptor Grammars and Learning Topical Collocations and the Structure of Proper Names.
+Learning to Classify Short and Sparse Text & Web with Hidden Topics from Large-scale Data Collections
+Learning to classify short and sparse text & web with hidden topics from large-scale data collections.
+Modeling perspective using adaptor grammars.
+Modeling Perspective Using Adaptor Grammars.
+Mr. LDA: A Flexible Large Scale Topic Modeling Package using Variational Inference in MapReduce
+Mr. LDA: a flexible large scale topic modeling package using variational inference in MapReduce.
+Grammatical error correction using neural machine translation
+Grammatical error correction using neural machine translation.
+University of Illinois System in HOO Text Correction Shared Task.
+University of Illinois System in HOO Text Correction Shared Task.
+UdS at CoNLL 2013 Shared Task
+UdS at CoNLL 2013 Shared Task.
+UM-Checker: A Hybrid System for English Grammatical Error Correction.
+UM-Checker: A Hybrid System for English Grammatical Error Correction.
+The University of Illinois System in the CoNLL-2013 Shared Task.
+The University of Illinois System in the CoNLL-2013 Shared Task.
+The CoNLL-2014 Shared Task on Grammatical Error Correction.
+The CoNLL-2014 Shared Task on Grammatical Error Correction.
+The CoNLL-2013 Shared Task on Grammatical Error Correction.
+The CoNLL-2013 Shared Task on Grammatical Error Correction.
+Tailoring word alignments to syntactic machine translation.
+Tailoring Word Alignments to Syntactic Machine Translation.
+Statistical phrase-based translation.
+Statistical Phrase-Based Translation.
+NUS at the HOO 2011 Pilot Shared Task.
+NUS at the HOO 2011 Pilot Shared Task.
+NAIST at 2013 CoNLL Grammatical Error Correction Shared Task
+NAIST at 2013 CoNLL Grammatical Error Correction Shared Task.
+Moses: open source toolkit for statistical machine translation
+Moses: Open Source Toolkit for Statistical Machine Translation.
+Improved statistical alignment models.
+Improved Statistical Alignment Models.
+Improved backing-off for m-gram language modeling.
+Improved backing-off for M-gram language modeling.
+IRSTLM: an open source toolkit for handling large scale language models.
+IRSTLM: an open source toolkit for handling large scale language models.
+IITB System for CoNLL 2013 Shared Task: A Hybrid Approach to Grammatical Error Correction
+IITB System for CoNLL 2013 Shared Task: A Hybrid Approach to Grammatical Error Correction.
+I check the English of your paper!!!
+May I check the English of your paper!!!
+Helping Our Own: The HOO 2011 Pilot Shared Task.
+Helping Our Own: The HOO 2011 Pilot Shared Task.
+Handling Outlandish Occurrences: Using Rules and Lexicons for Correcting NLP Articles.
+Handling Outlandish Occurrences: Using Rules and Lexicons for Correcting NLP Articles.
+HOO 2012: A Report on the Preposition and Determiner Error Correction Shared Task.
+HOO 2012: A Report on the Preposition and Determiner Error Correction Shared Task.
+Developing and testing a self-assessment and tutoring system.
+Developing and testing a self-assessment and tutoring system.
+Constrained grammatical error correction using statistical machine translation.
+Constrained Grammatical Error Correction using Statistical Machine Translation.
+Building a Large Annotated Corpus of Learner English: The NUS Corpus of Learner English.
+Building a Large Annotated Corpus of Learner English: The NUS Corpus of Learner English.
+Better evaluation for grammatical error correction.
+Better Evaluation for Grammatical Error Correction.
+An unsupervised model for joint phrase alignment and extraction.
+An Unsupervised Model for Joint Phrase Alignment and Extraction.
+Alignment by agreement.
+Alignment by Agreement.
+A systematic comparison of various statistical alignment models.
+A Systematic Comparison of Various Statistical Alignment Models.
+A new dataset and method for automatically grading esol texts.
+A New Dataset and Method for Automatically Grading ESOL Texts.
+Trees for explaining recommendations made through collaborative filtering
+Trees for explaining recommendations made through collaborative filtering.
+A hybrid model for grammatical error correction.
+A Hybrid Model For Grammatical Error Correction.
+Bayesian probabilistic matrix factorization using Markov chain Monte Carlo.
+SoRec: social recommendation using probabilistic matrix factorization.
+Probabilistic latent semantic indexing
+Probabilistic Latent Semantic Indexing.
+Grammatical error correction using hybrid systems and type filtering
+Grammatical error correction using hybrid systems and type filtering.
+Online nonnegative matrix factorization with robust stochastic approximation
+Online Nonnegative Matrix Factorization With Robust Stochastic Approximation.
+On the equivalence between non-negative matrix factorization and probabilistic latent semantic indexing
+On the equivalence between Non-negative Matrix Factorization and Probabilistic Latent Semantic Indexing.
+LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media.
+LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media.
+Incorporating group recommendations to recommender systems: alternatives and performance
+Incorporating group recommendations to recommender systems: Alternatives and performance.
+Implicit feedback techniques on recommender systems applied to electronic books
+Implicit feedback techniques on recommender systems applied to electronic books.
+A Rigorous Lower Bound for the Optimal Value of Convex Optimization Problems.
+Improving Clustering Algorithms through Constrained Convex Optimization.
+Collaborative filtering with ordinal scale-based implicit ratings for mobile music recommendations
+Collaborative filtering with ordinal scale-based implicit ratings for mobile music recommendations.
+Collaborative filtering based on significances
+Collaborative filtering based on significances.
+Collaborative filtering adapted to recommender systems of e-learning
+Collaborative filtering adapted to recommender systems of e-learning.
+A new collaborative filtering metric that improves the behavior of recommender systems
+A new collaborative filtering metric that improves the behavior of recommender systems.

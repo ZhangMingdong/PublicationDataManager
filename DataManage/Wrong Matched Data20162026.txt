@@ -1,0 +1,122 @@
+﻿A Tutorial on Spectral Clustering
+A tutorial on spectral clustering.
+Efficient Estimation of Word Representations in Vector Space
+Efficient estimation of word representations in vector space. arXiv preprint arXiv
+A fast and simple algorithm for training neural probabilistic language models.
+Andriy Mnih and Yee Whye Teh. A fast and simple algorithm for training neural probabilistic language models. arXiv preprint arXiv
+A Guide to Visual Multi-Level Interface Design From Synthesis of Empirical Study Evidence
+A guide to visual multi-level interface design from synthesis of empirical study evidence. Synthesis Lectures on Visualization
+Coordinated Graph and Scatter-Plot Views for the Visual Exploration of Microarray Time-Series Data.
+Coordinated graph and scatter-plot views for the visual exploration of microarray time-series data. In
+COSMIC: mining complete cancer genomes in the Catalogue of Somatic Mutations in Cancer.
+Cosmic: mining complete cancer genomes in the catalogue of somatic mutations in cancer. Nucleic Acids Res, 39(Database issue
+Pathline: A Tool For Comparative Functional Genomics.
+Pathline: A tool for comparative functional genomics. Computer Graphics Forum (Proc. EuroVis
+NCBI reference sequences (RefSeq): a curated non-redundant sequence database of genomes, transcripts and proteins.
+NCBI reference sequences (RefSeq): a curated non-redundant sequence database of genomes, transcripts and proteins. Nucleic Acids Res, 35(Database issue
+Reorganizing the protein space at the Universal Protein Resource (UniProt).
+Reorganizing the protein space at the Universal Protein Resource (UniProt). Nucleic Acids Res, 40(Database issue
+Recommender Systems.
+Recommender systems: from algorithms to user experience.
+Modern Information Retrieval
+Modern information retrieval, volume
+The InfoVis Toolkit.
+The infovis toolkit. In Information Visualization
+Action-Based Visualization.
+ZELDES A.: ANNIS3: A new architecture for generic corpus query and visualization. Literary and Linguistic Computing
+Tweet sentiment analysis with classifier ensembles.
+Tweet sentiment analysis with classifier ensembles. Decision Support Systems
+Time.
+Turbulence and temporality: (re)visualizing poetic time. things my computer taught me about poems
+Optimization
+Optimal Compaction of Orthogonal Grid Drawings.
+Self-Adjusting Binary Search Trees
+Tarjan: Self-Adjusting Binary Search Trees
+Collaborative location and activity recommendations with GPS history data.
+Collaborative location and activity recommendations with GPS history data. In
+Syntactic Clustering of the Web.
+ZWEIG G.: Syntactic Clustering of the Web. Computer Networks and ISDN Systemsundefined
+Graphs.
+Community detection in graphs.
+A new methodology for constructing a publication-level classification system of science
+A new methodology for constructing a publication-level classification system of science.
+Multiresolution Analysis with Non-Nested Spaces.
+BLaC-wavelets: a multiresolution analysis with non-nested spaces
+Applications
+Real virtual environment applications-now
+Parallel Coordinates.
+Continuous Parallel Coordinates
+Fully Dynamic Betweenness Centrality.
+A faster algorithm for fully dynamic betweenness centrality
+Applications
+Decision Theoretic Generalizations of the PAC Model for Neural Net and Other Learning Applications
+Foundations.
+Neural Network Learning - Theoretical Foundations.
+Information Science.
+The Nature of Statistical Learning Theory. Statistics for engineering and information science.
+Select Z Bibliography.
+Algorithms for Drawing Graphs: an Annotated Bibliography.
+Web Image Clustering.
+A Fast Algorithm for Balanced Graph Clustering.
+Action-Based Visualization.
+Network Visualization.
+Neural Networks.
+The impact of name ambiguity on properties of coauthorship networks.
+Network Analysis.
+CHI 1994–2013: Mapping two decades of intellectual progress through co-word analysis.
+Analysis.
+Creativity and conformity in science: Titles, keywords and co-word analysis.
+Drift analysis.
+Interactive dynamics for visual analysis.
+Mapping Topics and Topic Bursts in PNAS
+Mapping topics and topic bursts in PNAS.
+Object-Oriented Reengineering Patterns - Version of 2009-09-28.
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+Object-Oriented Reengineering Patterns - Version of 2009-09-28.
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+Object-Oriented Reengineering Patterns - Version of 2009-09-28.
+Design Challenges and Solutions: Review of the 4th International Workshop on Ubiquitous Computing (iUBICOM 2009).
+Using Microsoft Dynamics AX 2012, Second Edition
+Nordic Conference on Human-Computer Interaction, NordiCHI '12, Copenhagen, Denmark, October 14-17, 2012
+Neural Networks.
+Social Networks.
+Neural Networks.
+Social Networks.
+Graph Mining: Laws, Tools, and Case Studies
+Graph Mining: Laws, Tools, and Case Studies.
+Big Data.
+BiNA: a visual analytics tool for biological network data.
+Web Image Clustering.
+Energy Models for Graph Clustering.
+Ties.
+Group-in-a-box metalayouts for topological clusters and attribute-based groups: Space-efficient visualizations of network communities and their ties.
+Graphs.
+The Readability of Path-Preserving Clustering of Graphs.
+Task-Analytic Approach to the Automated Design of Graphic Presentations.
+A task-analytic approach to the automated design of graphic presentations.
+The GRelC Project: From 2001 to 2011, 10 Years Working on Grid-DBMSs.
+Turbulence Modelling for CFD-Methods for Containment Flows - Annual Report 06/2010-06/2011.
+Web Image Clustering.
+Identification of overlapping community structure in complex networks using fuzzy-means clustering.
+Graphs.
+Multi-circular layout of micro/macro graphs.
+Force-Directed Drawing Algorithms.
+Force-directed drawing algorithms. In Handbook of Graph Drawing and Visualization.
+Fitness Functions for the Optimization of Self-Organizing Maps.
+Parallelizing Self-Organizing Maps.
+Advances in Databases, 16th British National Conferenc on Databases, BNCOD 16, Cardiff, Wales, U.K., July 6-8, 1998, Proceedings
+Proceedings of the 3rd USENIX Workshop on Electronic Commerce, Boston, Massachusetts, USA, August 31 - September 3, 1998
+Foundations.
+Complexity and management: Moving from fad to firm foundations.
+Fractal Geometry of Nature.
+The fractal geometry of nature.
+6th International Workshop on Semantic Ambient Media Experiences (SAME 2014): ambient & smart media usability, interaction, and technologies.
+Proceedings of the 8th Nordic Conference on Human-Computer Interaction: Fun, Fast, Foundational, Helsinki, Finland, October 26-30, 2014
+A Calculus for Transportation Systems.
+Advanced Technologies for Intelligent Transportation Systems.
+Software.
+TransCAD Transportation Planning Software.
+Action-Based Visualization.
+The value of visualization...and why interaction matters, capstone speech, eurovis
+One-class collaborative filtering with random graphs.
+One-class Collaborative Filtering with Random Graphs: Annotated Version.

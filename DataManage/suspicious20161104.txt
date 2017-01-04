@@ -1,0 +1,27 @@
+
+
+
+Sequence segmentation for statistical machine translation.
+Lattice rescoring methods for statistical machine translation.
+
+Programming Languages and Systems, 9th European Symposium on Programming, ESOP 2000, Held as Part of the European Joint Conferences on the Theory and Practice of Software, ETAPS 2000, Berlin, Germany, March 25 - April 2, 2000, Proceedings
+Advances in Cryptology - ASIACRYPT 2000, 6th International Conference on the Theory and Application of Cryptology and Information Security, Kyoto, Japan, December 3-7, 2000, Proceedings
+
+
+A Facial Pose Estimation Algorithm Using Deep Learning.
+Predicting daily activities from egocentric images using deep learning.
+
+
+
+Complementing WordNet with Roget's and Corpus-based Thesauri for Information Retrieval.
+Effects of Term Segmentation on Chinese/English Cross-Language Information Retrieval.
+
+
+
+
+Bayesian probabilistic matrix factorization using Markov chain Monte Carlo.
+SoRec: social recommendation using probabilistic matrix factorization.
+
+
+A Rigorous Lower Bound for the Optimal Value of Convex Optimization Problems.
+Improving Clustering Algorithms through Constrained Convex Optimization.

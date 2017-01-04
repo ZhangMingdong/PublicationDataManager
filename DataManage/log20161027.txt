@@ -1,0 +1,77 @@
+Number of not matched items:1615
+============Not Matched============
+============Matched============37
+The multiple multiplicative factor model for collaborative filtering.
+The multiple multiplicative factor model for collaborative filtering.
+Temporal collaborative filtering with bayesian probabilistic tensor factorization.
+Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization.
+Probabilistic matrix factorization.
+SoRec: social recommendation using probabilistic matrix factorization.
+Modeling temporal adoptions using dynamic matrix factorization.
+Modeling Temporal Adoptions Using Dynamic Matrix Factorization.
+From amateurs to connoisseurs: Modeling the evolution of user expertise through online reviews.
+From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews.
+Factorial hidden markov models.
+Factorial Hidden Markov Models.
+Bayesian probabilistic matrix factorization using markov chain monte carlo.
+Bayesian probabilistic matrix factorization using Markov chain Monte Carlo.
+Bayesian matrix factorization with side information and dirichlet process mixtures.
+Bayesian Matrix Factorization with Side Information and Dirichlet Process Mixtures.
+A transitivity aware matrix factorization model for recommendation in social networks.
+A Transitivity Aware Matrix Factorization Model for Recommendation in Social Networks.
+Tensor factorization using auxiliary information.
+Tensor Factorization Using Auxiliary Information.
+gSCorr: modeling geo-social correlations for new check-ins on location-based social networks.
+gSCorr: modeling geo-social correlations for new check-ins on location-based social networks.
+Who, where, when and what: discover spatio-temporal topics for twitter users.
+Who, where, when and what: discover spatio-temporal topics for twitter users.
+What's Your Next Move: User Activity Prediction in Location-based Social Networks
+What's Your Next Move: User Activity Prediction in Location-based Social Networks.
+Using GPS to learn significant locations and predict movement across multiple users.
+Using GPS to learn significant locations and predict movement across multiple users.
+Understanding mobility based on gps data.
+Understanding mobility based on GPS data.
+Socio-spatial properties of online location-based social networks.
+Socio-Spatial Properties of Online Location-Based Social Networks.
+Preheat: controlling home heating using occupancy prediction.
+PreHeat: controlling home heating using occupancy prediction.
+Periodic properties of user mobility and access-point popularity.
+Periodic properties of user mobility and access-point popularity.
+Nextplace: a spatio-temporal prediction framework for pervasive systems.
+NextPlace: A Spatio-temporal Prediction Framework for Pervasive Systems.
+Mining periodic behaviors for moving objects.
+Mining periodic behaviors for moving objects.
+Learning geographical preferences for point-of-interest recommendation.
+Learning geographical preferences for point-of-interest recommendation.
+Human mobility, social ties, and link prediction.
+Human mobility, social ties, and link prediction.
+Geomf: joint geographical modeling and matrix factorization for point-of-interest recommendation.
+GeoMF: joint geographical modeling and matrix factorization for point-of-interest recommendation.
+Exploiting geographical neighborhood characteristics for location recommendation.
+Exploiting Geographical Neighborhood Characteristics for Location Recommendation.
+Bayesian non-negative matrix factorization.
+Bayesian Non-negative Matrix Factorization.
+An empirical study of geographic user activity patterns in foursquare.
+An Empirical Study of Geographic User Activity Patterns in Foursquare.
+A HMM-based location prediction framework with location recognizer combining k-nearest neighbor and multiple decision trees.
+A HMM-Based Location Prediction Framework with Location Recognizer Combining k-Nearest Neighbor and Multiple Decision Trees.
+Resonance on the web: Web dynamics and revisitation patterns.
+Resonance on the web: web dynamics and revisitation patterns.
+Understanding re-finding behavior in naturalistic email interaction logs.
+Understanding re-finding behavior in naturalistic email interaction logs.
+Understanding cyclic trends in social choices.
+Understanding cyclic trends in social choices.
+Twittersearch: a comparison of microblog search and web search.
+#TwitterSearch: a comparison of microblog search and web search.
+Recommender systems survey
+Recommender systems survey.
+Re-examining the influence of trust on online repeat purchase intention: The moderating role of habit and its antecedents
+Re-examining the influence of trust on online repeat purchase intention: The moderating role of habit and its antecedents.
+Past purchase and intention to purchase in e-commerce: The mediation of social presence and trust.
+Past Purchase and Intention to Purchase in E-Commerce: the Mediation of Social Presence and Trust.
+Learning temporal dynamics of behavior propagation in social networks.
+Learning Temporal Dynamics of Behavior Propagation in Social Networks.
+Large scale query log analysis of re-finding.
+Large scale query log analysis of re-finding.
+A statistical model for user preference.
+A Statistical Model for User Preference.
